@@ -1,0 +1,990 @@
+Country,Year,Owner,Species,Variety,Color,Production_Bag,KG_x_Bag,Total_Production,Score_Aroma,Score_Flavor,Score_Aftertaste,Score_Acidity,Score_Body,Score_Balance,Score_Uniformity,Score_Sweetness,Score_Moisture,Score_Total
+United States,2010,kona pacific farmers cooperative,Arabica,,Unknown,25,45.3592,1133.98,8.25,8.42,8.08,7.75,7.67,7.83,10.0,10.0,0.0,86.25
+Brazil,2010,jacques pereira carneiro,Arabica,Yellow Bourbon,Unknown,300,60.0,18000.0,8.17,7.92,7.92,7.75,8.33,8.0,10.0,10.0,0.08,86.17
+Brazil,2010,jacques pereira carneiro,Arabica,Yellow Bourbon,Unknown,300,60.0,18000.0,8.42,7.92,8.0,7.75,7.92,8.0,10.0,10.0,0.01,86.17
+Ethiopia,2010,ethiopia commodity exchange,Arabica,,Unknown,360,6.0,2160.0,7.67,8.0,7.83,8.0,7.92,7.83,10.0,10.0,0.0,85.08
+Ethiopia,2010,ethiopia commodity exchange,Arabica,,Unknown,300,6.0,1800.0,7.58,7.83,7.58,8.0,7.83,7.5,10.0,10.0,0.1,83.83
+United States,2010,kona pacific farmers cooperative,Arabica,,Unknown,12,60.0,720.0,7.5,7.92,7.42,7.67,7.83,7.58,10.0,10.0,0.01,83.42
+Indonesia,2010,specialty coffee association of indonesia,Arabica,,Unknown,10,60.0,600.0,7.67,7.58,7.5,7.58,7.67,7.58,10.0,10.0,0.0,83.08
+Ethiopia,2010,ethiopia commodity exchange,Arabica,,Unknown,360,6.0,2160.0,7.25,7.25,7.25,7.33,7.5,8.0,9.33,10.0,0.1,80.33
+Ethiopia,2010,ethiopia commodity exchange,Arabica,,Unknown,300,6.0,1800.0,7.42,7.42,7.5,7.92,7.75,7.58,8.67,8.67,0.05,80.0
+Haiti,2010,myriam kaplan-pasternak,Arabica,,Unknown,85,58.96696,5012.1916,6.92,6.75,7.08,7.17,7.33,6.67,10.0,8.67,0.08,72.33
+Brazil,2011,nucoffee,Arabica,Bourbon,Green,3,60.0,180.0,8.5,8.5,8.0,8.0,8.0,8.0,10.0,10.0,0.12,86.92
+Brazil,2011,nucoffee,Arabica,Bourbon,Green,29,60.0,1740.0,8.5,8.17,8.0,7.75,8.0,8.0,10.0,10.0,0.12,86.42
+Brazil,2011,nucoffee,Arabica,Bourbon,Blue-Green,7,60.0,420.0,8.33,8.0,8.0,8.0,7.75,8.0,10.0,10.0,0.11,86.08
+Brazil,2011,nucoffee,Arabica,Bourbon,Blue-Green,5,60.0,300.0,8.0,8.0,8.0,7.67,7.75,8.0,10.0,10.0,0.11,85.42
+Brazil,2011,nucoffee,Arabica,Bourbon,Green,4,60.0,240.0,8.0,7.92,7.75,7.75,8.0,7.75,10.0,10.0,0.11,84.92
+Brazil,2011,nucoffee,Arabica,Catuai,Green,10,60.0,600.0,8.0,8.0,7.75,8.0,7.5,7.75,10.0,10.0,0.12,84.92
+Brazil,2011,nucoffee,Arabica,Bourbon,Green,37,60.0,2220.0,8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,0.12,84.58
+Brazil,2011,nucoffee,Arabica,Catuai,Blue-Green,35,60.0,2100.0,8.5,8.0,7.5,7.75,7.5,7.83,10.0,10.0,0.11,84.58
+Brazil,2011,nucoffee,Arabica,Yellow Bourbon,Unknown,75,60.0,4500.0,8.17,8.0,7.5,7.75,7.5,7.67,10.0,10.0,0.0,84.33
+Brazil,2011,nucoffee,Arabica,,Unknown,80,60.0,4800.0,8.0,8.0,7.5,7.5,7.67,7.75,10.0,10.0,0.02,84.33
+Thailand,2011,doi tung development project,Arabica,,Unknown,1,60.0,60.0,7.58,7.75,7.58,7.75,7.58,7.75,10.0,10.0,0.06,84.0
+Thailand,2011,doi chaang coffee company,Arabica,,Unknown,175,50.0,8750.0,7.75,7.75,7.58,8.0,7.67,7.58,10.0,10.0,0.02,83.83
+Thailand,2011,doi tung development project,Arabica,,Unknown,1,60.0,60.0,7.5,7.83,7.58,7.58,7.75,7.83,10.0,10.0,0.01,83.83
+Brazil,2011,nucoffee,Arabica,Mundo Novo,Blue-Green,25,60.0,1500.0,7.75,7.5,7.58,7.5,7.75,7.5,10.0,10.0,0.12,83.17
+Brazil,2011,nucoffee,Arabica,,Unknown,90,60.0,5400.0,7.58,7.75,7.67,7.5,7.67,7.58,10.0,10.0,0.02,83.17
+Colombia,2011,racafe & cia s.c.a,Arabica,Caturra,Bluish-Green,121,1.0,121.0,7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,0.12,83.0
+Thailand,2011,doi tung development project,Arabica,,Unknown,1,60.0,60.0,7.33,7.67,7.58,7.5,7.75,7.67,10.0,10.0,0.28,83.0
+Brazil,2011,nucoffee,Arabica,Mundo Novo,Unknown,42,60.0,2520.0,7.58,7.5,7.33,7.75,7.5,7.5,10.0,10.0,0.0,82.58
+Colombia,2011,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.33,7.58,7.17,7.58,7.42,7.58,10.0,10.0,0.0,82.42
+Brazil,2011,nucoffee,Arabica,Mundo Novo,Unknown,58,60.0,3480.0,7.33,7.67,7.25,7.5,7.5,7.25,10.0,10.0,0.02,81.83
+Colombia,2011,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.33,7.42,7.33,7.33,7.5,7.67,10.0,10.0,0.0,81.75
+Thailand,2011,doi chaang coffee company,Arabica,,Unknown,12,50.0,600.0,7.08,7.33,7.58,7.58,7.17,7.5,10.0,10.0,0.01,81.58
+Thailand,2011,doi tung development project,Arabica,,Unknown,1,60.0,60.0,7.33,7.33,7.17,7.5,7.58,7.33,10.0,10.0,0.2,81.58
+Colombia,2011,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.5,7.42,7.25,7.17,7.17,7.75,10.0,10.0,0.11,81.42
+United States,2011,kona pacific farmers cooperative,Arabica,Arusha,Bluish-Green,3,0.907184,2.721552,7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,0.13,80.75
+Indonesia,2011,william ho,Arabica,Other,,15,2.0,30.0,7.33,7.0,6.5,6.08,7.58,6.33,9.33,9.33,0.12,76.17
+Peru,2012,hugo valdivia,Arabica,Other,Bluish-Green,100,69.0,6900.0,8.42,8.5,8.33,8.5,8.25,8.25,10.0,10.0,0.11,88.75
+Mexico,2012,roberto licona franco,Arabica,Other,Green,14,1.0,14.0,8.17,8.25,8.17,8.0,7.83,8.17,10.0,10.0,0.13,87.17
+"Tanzania, United Republic Of",2012,specialty coffee-korea,Arabica,,Bluish-Green,100,60.0,6000.0,8.42,8.17,8.17,8.0,7.58,8.0,10.0,10.0,0.11,86.5
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Unknown,10,45.3592,453.592,8.08,8.17,8.0,7.92,7.92,7.83,10.0,10.0,0.0,86.25
+Thailand,2012,itdp international,Arabica,Caturra,Green,53,1.0,53.0,7.83,8.33,7.83,8.25,7.58,7.92,10.0,10.0,0.1,86.17
+Uganda,2012,afca,Arabica,Other,Blue-Green,1,60.0,60.0,8.25,8.0,7.83,8.08,8.0,7.92,10.0,10.0,0.1,86.0
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,150,1.0,150.0,7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,0.12,85.83
+Guatemala,2012,juan luis alvarado romero,Arabica,Catuai,Bluish-Green,275,1.0,275.0,8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,0.1,85.83
+Papua New Guinea,2012,"colbran coffeelands, ltd.",Arabica,,Bluish-Green,7,60.0,420.0,8.33,8.42,7.83,8.33,8.0,8.25,9.33,10.0,0.12,85.75
+El Salvador,2012,lusso lab,Arabica,Bourbon,,19,1.0,19.0,7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,0.11,85.58
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Unknown,8,45.3592,362.8736,7.83,8.0,7.92,7.75,8.08,8.0,10.0,10.0,0.0,85.58
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Unknown,8,45.3592,362.8736,7.92,7.92,7.75,7.92,7.75,7.92,10.0,10.0,0.0,85.42
+Kenya,2012,rashid moledina & co. (msa) ltd.,Arabica,SL34,Green,20,60.0,1200.0,7.83,8.08,7.75,8.08,7.92,7.75,10.0,10.0,0.0,85.33
+Kenya,2012,ibero kenya limited,Arabica,SL34,Green,300,60.0,18000.0,8.0,7.92,7.92,8.08,7.83,7.75,10.0,10.0,0.0,85.33
+Indonesia,2012,"nomura trading co., ltd.",Arabica,Sumatra Lintong,Green,54,60.0,3240.0,7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,0.11,85.17
+Guatemala,2012,the coffee source inc.,Arabica,Caturra,Unknown,250,1.0,250.0,8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,0.0,85.17
+Colombia,2012,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.83,8.0,7.75,7.75,7.83,7.83,10.0,10.0,0.11,85.08
+Kenya,2012,rashid moledina & co. (msa) ltd.,Arabica,SL34,Green,38,60.0,2280.0,7.75,7.83,7.75,8.08,8.0,7.75,10.0,10.0,0.0,85.0
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,31,60.0,1860.0,8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,0.12,85.0
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,50,70.0,3500.0,7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,0.11,84.92
+Mexico,2012,artemio zapata tejeda,Arabica,Typica,Unknown,25,1.0,25.0,7.75,8.0,7.75,7.83,7.5,7.92,10.0,10.0,0.11,84.92
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Unknown,14,45.3592,635.0288,7.67,7.75,7.75,7.75,7.83,8.0,10.0,10.0,0.0,84.83
+Costa Rica,2012,rob tuttle,Arabica,,Green,1,2.0,2.0,8.08,7.83,7.75,7.83,7.92,8.0,10.0,9.33,0.0,84.67
+Kenya,2012,dream together,Arabica,SL28,Bluish-Green,235,60.0,14100.0,7.75,7.92,7.83,8.0,7.58,7.75,10.0,10.0,0.11,84.67
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,0.11,84.67
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,125,1.0,125.0,7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,0.12,84.67
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Unknown,80,1.0,80.0,7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,0.13,84.67
+Uganda,2012,afca,Arabica,Other,Blue-Green,320,60.0,19200.0,7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,0.11,84.67
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.83,7.83,8.0,7.58,7.92,10.0,10.0,0.0,84.58
+Costa Rica,2012,lusso lab,Arabica,Bourbon,Bluish-Green,1,1.0,1.0,7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,0.12,84.58
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.42,7.67,7.75,7.75,8.08,7.83,10.0,10.0,0.11,84.58
+Kenya,2012,dream together,Arabica,SL28,Blue-Green,235,60.0,14100.0,7.92,7.83,7.67,8.0,7.67,7.75,10.0,10.0,0.11,84.5
+Mexico,2012,maria imelda uscanga martinez,Arabica,Typica,Green,56,1.0,56.0,8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,0.12,84.5
+Mexico,2012,alfredo bojalil,Arabica,Typica,Unknown,250,1.0,250.0,7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,0.11,84.5
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.67,8.0,7.67,8.0,7.5,7.83,10.0,10.0,0.11,84.5
+Taiwan,2012,kao ming lee,Arabica,Typica,Blue-Green,2,2.0,4.0,7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,0.11,84.42
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Blue-Green,5,45.3592,226.796,7.92,7.92,7.5,7.83,7.5,7.92,10.0,10.0,0.11,84.42
+Mexico,2012,maria amalia guadalupe toriello elorza,Arabica,Pacamara,Unknown,69,1.0,69.0,7.75,7.92,7.75,7.67,7.83,7.67,10.0,10.0,0.12,84.42
+Mexico,2012,victor hugo melchor cordova,Arabica,Typica,Blue-Green,100,80.0,8000.0,8.0,7.75,7.75,7.83,7.5,7.67,10.0,10.0,0.12,84.33
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,7,45.3592,317.5144,7.33,7.92,7.92,7.92,7.92,8.08,10.0,9.33,0.11,84.25
+Mexico,2012,manuel herrera juarez,Arabica,Bourbon,Green,20,1.0,20.0,7.83,7.83,7.75,7.67,7.83,7.58,10.0,10.0,0.12,84.25
+Mexico,2012,alfredo bojalil,Arabica,Bourbon,Bluish-Green,250,1.0,250.0,7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,0.1,84.25
+Uganda,2012,afca,Arabica,Other,Green,1,60.0,60.0,8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,0.13,84.25
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.75,7.75,7.75,7.75,7.83,7.75,10.0,10.0,0.0,84.17
+Guatemala,2012,juan luis alvarado romero,Arabica,Catuai,Bluish-Green,275,1.0,275.0,7.83,7.5,7.5,8.0,7.83,7.83,10.0,10.0,0.11,84.17
+Uganda,2012,afca,Arabica,Other,Green,320,60.0,19200.0,7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,0.11,84.17
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,14,45.3592,635.0288,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10.0,0.11,84.08
+Mexico,2012,andres martinez leon,Arabica,Typica,Green,300,1.0,300.0,7.67,7.75,7.67,7.75,7.67,7.75,10.0,10.0,0.11,84.08
+Ethiopia,2012,steven kil,Arabica,Other,Unknown,100,60.0,6000.0,7.92,7.92,7.83,8.0,7.92,7.92,10.0,8.67,0.09,84.08
+Kenya,2012,ibero kenya limited,Arabica,SL34,Green,300,60.0,18000.0,7.67,7.83,7.5,7.75,7.92,7.67,10.0,10.0,0.0,84.0
+Thailand,2012,doi tung development project,Arabica,Other,Green,2,1.0,2.0,7.92,8.17,8.17,8.42,8.08,8.17,8.67,9.33,0.12,84.0
+Kenya,2012,taylor winch (coffee) ltd.,Arabica,SL28,Bluish-Green,150,60.0,9000.0,7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,0.0,84.0
+Uganda,2012,afca,Arabica,Other,Green,320,60.0,19200.0,7.92,7.75,7.58,7.67,7.67,7.83,10.0,10.0,0.1,84.0
+Mexico,2012,oscar ortega carballo,Arabica,Typica,Blue-Green,48,1.0,48.0,7.67,7.75,7.58,7.67,7.75,7.83,10.0,10.0,0.12,83.92
+Mexico,2012,alfredo bojalil,Arabica,Typica,Unknown,250,1.0,250.0,7.5,7.67,7.58,7.83,7.75,7.75,10.0,10.0,0.11,83.92
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Green,20,1.0,20.0,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10.0,0.0,83.92
+Mexico,2012,filemon mendoza campos,Arabica,Bourbon,Green,20,1.0,20.0,7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,0.1,83.83
+Mexico,2012,alfredo bojalil,Arabica,Pacas,Unknown,250,1.0,250.0,7.67,7.58,7.5,7.75,7.75,7.75,10.0,10.0,0.11,83.83
+Mexico,2012,saul m. hernandez ramirez,Arabica,Caturra,,10,1.0,10.0,7.83,7.58,7.58,7.5,7.75,7.67,10.0,10.0,0.13,83.75
+Guatemala,2012,the coffee source inc.,Arabica,Caturra,Bluish-Green,250,1.360776,340.194,7.67,7.58,7.58,7.67,7.75,7.75,10.0,10.0,0.11,83.75
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.75,7.75,7.58,7.83,7.17,7.75,10.0,10.0,0.11,83.67
+Guatemala,2012,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,0.11,83.67
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.67,8.17,7.5,7.42,7.58,7.83,10.0,10.0,0.11,83.67
+Mexico,2012,juan luis ortega carballo,Arabica,Typica,Green,48,1.0,48.0,7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,0.12,83.67
+Indonesia,2012,ekai international company ltd.,Arabica,Typica,Green,10,60.0,600.0,8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,0.12,83.67
+Guatemala,2012,juan luis alvarado romero,Arabica,Caturra,Green,250,69.0,17250.0,7.67,7.5,7.33,8.0,7.67,7.67,10.0,10.0,0.1,83.67
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.67,7.67,7.58,7.67,7.75,7.58,10.0,10.0,0.11,83.58
+Mexico,2012,alfredo bojalil,Arabica,Typica,Unknown,250,1.0,250.0,7.83,7.67,7.58,7.58,7.67,7.58,10.0,10.0,0.12,83.58
+Colombia,2012,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,0.11,83.58
+Brazil,2012,nucoffee,Arabica,Catuai,Blue-Green,33,60.0,1980.0,7.83,7.75,7.5,7.75,7.5,7.58,10.0,10.0,0.12,83.58
+Mexico,2012,manuel herrera juarez,Arabica,Bourbon,Green,10,1.0,10.0,7.83,7.58,7.25,7.5,7.5,7.42,10.0,10.0,0.13,83.5
+Mexico,2012,gabriel bernardo rivas ross,Arabica,Pacamara,Green,15,1.0,15.0,7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,0.12,83.5
+Guatemala,2012,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.83,7.5,7.5,8.0,7.67,7.5,10.0,10.0,0.1,83.5
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,175,70.0,12250.0,7.67,7.58,7.58,7.67,7.67,7.67,10.0,10.0,0.11,83.5
+Guatemala,2012,felipe isaza,Arabica,Bourbon,Green,250,2.0,500.0,7.5,7.5,7.75,7.5,8.0,7.67,10.0,10.0,0.0,83.5
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,13,45.3592,589.6696000000001,7.42,7.75,7.67,7.58,7.67,7.67,10.0,10.0,0.0,83.42
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.5,7.75,7.58,7.5,7.67,7.75,10.0,10.0,0.11,83.42
+Haiti,2012,itiah coffee llc,Arabica,Typica,Green,2,1.814368,3.628736,7.58,7.5,7.67,7.5,7.83,7.42,10.0,10.0,0.11,83.33
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,7,45.3592,317.5144,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10.0,0.1,83.33
+Burundi,2012,steven kil,Arabica,Bourbon,Unknown,220,60.0,13200.0,7.75,7.67,7.33,7.5,7.5,7.75,10.0,10.0,0.0,83.33
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.5,7.67,7.67,7.58,7.67,7.58,10.0,10.0,0.0,83.33
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,11,45.3592,498.95120000000003,7.58,7.75,7.83,8.0,8.08,7.67,9.33,9.33,0.11,83.25
+Mexico,2012,ernesto rodriguez luna,Arabica,Mundo Novo,Green,10,1.0,10.0,7.75,7.58,7.58,7.58,7.5,7.58,10.0,10.0,0.13,83.25
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.83,7.58,7.08,7.83,7.42,8.08,10.0,10.0,0.11,83.25
+Brazil,2012,nucoffee,Arabica,Yellow Bourbon,Blue-Green,30,60.0,1800.0,7.75,7.67,7.5,7.58,7.58,7.58,10.0,10.0,0.11,83.25
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.58,7.58,7.42,7.83,7.58,10.0,10.0,0.12,83.25
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,175,70.0,12250.0,7.67,7.67,7.5,7.5,7.58,7.67,10.0,10.0,0.11,83.25
+Mexico,2012,saul m. hernandez ramirez,Arabica,Typica,,10,1.0,10.0,7.75,7.67,7.58,7.5,7.42,7.58,10.0,10.0,0.12,83.17
+Mexico,2012,saul m. hernandez ramirez,Arabica,Pacamara,,10,1.0,10.0,7.58,7.75,7.42,7.67,7.5,7.58,10.0,10.0,0.14,83.17
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.67,7.5,7.5,7.5,7.58,8.17,10.0,10.0,0.11,83.17
+Mexico,2012,fernando mendoza aparicio,Arabica,Typica,Green,15,1.0,15.0,7.75,7.5,7.42,7.75,7.58,7.58,10.0,10.0,0.13,83.17
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Blue-Green,250,70.0,17500.0,7.58,7.67,7.5,7.58,7.67,7.67,10.0,10.0,0.11,83.17
+Mexico,2012,alfredo bojalil,Arabica,Typica,Unknown,250,1.0,250.0,7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,0.11,83.17
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,50,60.0,3000.0,7.75,7.67,7.58,7.5,7.58,7.58,10.0,10.0,0.12,83.17
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,100,60.0,6000.0,7.92,7.58,7.5,7.58,7.42,7.5,10.0,10.0,0.11,83.17
+Guatemala,2012,felipe isaza,Arabica,Bourbon,Green,250,2.0,500.0,7.75,7.5,7.67,7.5,7.92,8.0,10.0,9.33,0.0,83.17
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,6,45.3592,272.15520000000004,7.83,7.83,7.33,7.17,7.75,7.67,10.0,10.0,0.1,83.08
+Mexico,2012,maria luisa del carmen rojas narvaez,Arabica,Other,Unknown,10,1.0,10.0,7.75,7.67,7.42,7.75,7.5,7.5,10.0,10.0,0.1,83.08
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Unknown,7,45.3592,317.5144,7.67,7.58,7.5,7.67,7.92,8.0,9.33,10.0,0.0,83.08
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,6,45.3592,272.15520000000004,7.33,7.58,7.58,7.92,7.67,7.58,10.0,10.0,0.12,83.08
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.5,7.5,7.42,7.58,7.75,7.58,10.0,10.0,0.11,83.0
+Mexico,2012,rosa aurora falcon fernandez,Arabica,Typica,Green,15,1.0,15.0,7.67,7.58,7.42,7.5,7.67,7.58,10.0,10.0,0.11,83.0
+Mexico,2012,santiago solis ayerdi,Arabica,Typica,Green,20,1.0,20.0,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10.0,0.11,83.0
+Mexico,2012,alfredo bojalil,Arabica,Bourbon,Green,250,1.0,250.0,7.5,7.67,7.5,7.5,7.58,7.58,10.0,10.0,0.11,83.0
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Arusha,Unknown,250,70.0,17500.0,7.67,7.58,7.5,7.5,7.75,7.5,10.0,10.0,0.0,83.0
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10.0,0.0,83.0
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.58,7.58,7.58,7.67,7.42,10.0,10.0,0.11,83.0
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,275,1.0,275.0,7.5,7.67,7.5,7.67,7.5,7.83,10.0,10.0,0.1,83.0
+Guatemala,2012,rob tuttle,Arabica,,Green,1,2.0,2.0,7.58,7.58,7.25,7.58,7.58,7.58,10.0,10.0,0.1,82.92
+Mexico,2012,maria guadalupe gomez anzo,Arabica,Typica,Green,15,1.0,15.0,7.58,7.58,7.33,7.25,7.58,7.75,10.0,10.0,0.1,82.92
+Vietnam,2012,royal base corporation,Arabica,Other,,1,2.0,2.0,7.67,7.33,7.17,7.58,8.08,7.42,10.0,10.0,0.0,82.92
+Mexico,2012,veronica lopez castillejos,Arabica,Typica,Green,100,1.0,100.0,8.0,7.92,7.67,7.17,7.67,7.42,9.33,10.0,0.14,82.92
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,8,45.3592,362.8736,7.5,7.5,7.5,7.42,7.67,7.83,10.0,10.0,0.1,82.92
+"Tanzania, United Republic Of",2012,edwin agasso,Arabica,Arusha,Green,300,2.0,600.0,7.67,7.5,7.33,7.25,7.58,7.75,10.0,10.0,0.11,82.83
+Mexico,2012,armando luis pohlenz martinez,Arabica,Caturra,Green,250,1.0,250.0,7.58,7.67,7.5,7.58,7.5,7.5,10.0,10.0,0.12,82.83
+Mexico,2012,alfredo bojalil,Arabica,Bourbon,Blue-Green,250,1.0,250.0,7.67,7.58,7.42,7.75,7.42,7.42,10.0,10.0,0.12,82.83
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,0.11,82.83
+Mexico,2012,alfredo bojalil,Arabica,Typica,Unknown,250,1.0,250.0,7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,0.11,82.83
+Mexico,2012,sergio de la vequia bernardi,Arabica,Typica,Unknown,250,1.0,250.0,7.58,7.58,7.33,7.75,7.25,7.58,10.0,10.0,0.12,82.75
+Mexico,2012,romulo bello flores,Arabica,Typica,Unknown,21,1.0,21.0,8.08,8.17,8.0,8.0,7.83,7.92,6.67,10.0,0.12,82.75
+Colombia,2012,,Arabica,Caturra,Blue-Green,250,70.0,17500.0,7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,0.0,82.75
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,100,70.0,7000.0,7.67,7.58,7.58,7.58,7.5,7.42,10.0,10.0,0.11,82.75
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,6,45.3592,272.15520000000004,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10.0,0.12,82.75
+Panama,2012,rachel peterson,Arabica,Catuai,Green,300,2.0,600.0,7.42,7.42,7.5,7.58,7.5,7.75,10.0,10.0,0.0,82.75
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Bluish-Green,250,70.0,17500.0,7.75,7.58,7.67,7.25,7.58,7.42,10.0,10.0,0.11,82.67
+El Salvador,2012,adam kline,Arabica,Other,,288,1.0,288.0,7.92,8.0,7.5,6.75,7.92,7.58,10.0,9.33,0.0,82.67
+Guatemala,2012,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.67,7.67,7.17,7.67,7.5,7.5,10.0,10.0,0.11,82.67
+Thailand,2012,doi tung development project,Arabica,Other,Bluish-Green,2,1.0,2.0,7.83,7.33,7.83,7.33,7.58,7.83,10.0,9.33,0.12,82.67
+Mexico,2012,montegrande,Arabica,Other,Unknown,36,1.0,36.0,7.58,7.58,7.42,7.58,7.42,7.5,10.0,10.0,0.11,82.67
+Mexico,2012,grupo cafetalero los brujos spr de rl,Arabica,Typica,Unknown,23,1.0,23.0,7.5,7.58,7.58,7.58,7.42,7.42,10.0,10.0,0.12,82.67
+Guatemala,2012,brent hall,Arabica,,Blue-Green,1,2.0,2.0,7.5,7.58,7.42,7.58,7.42,7.58,10.0,10.0,0.0,82.58
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Unknown,250,70.0,17500.0,7.75,7.5,7.75,7.25,7.33,7.58,10.0,10.0,0.11,82.58
+Mexico,2012,guillermo rojas saldana,Arabica,Typica,Green,50,1.0,50.0,7.5,7.58,7.5,7.5,7.42,7.5,10.0,10.0,0.1,82.58
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Green,70,1.0,70.0,7.67,7.58,7.58,7.75,7.67,6.83,10.0,10.0,0.12,82.58
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.33,7.42,7.58,7.42,7.67,7.5,10.0,10.0,0.11,82.58
+Mexico,2012,saul m. hernandez ramirez,Arabica,Typica,,10,1.0,10.0,7.5,7.58,7.5,7.5,7.42,7.42,10.0,10.0,0.13,82.5
+Mexico,2012,enrique mitre lopez,Arabica,Typica,Green,10,1.0,10.0,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,0.12,82.5
+Mexico,2012,enrique eduardo lopez aguilar,Arabica,Typica,Unknown,28,1.0,28.0,7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,0.11,82.5
+Guatemala,2012,juan luis alvarado romero,Arabica,Caturra,Green,275,1.0,275.0,7.67,7.33,7.33,7.33,7.5,7.83,10.0,10.0,0.11,82.5
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,0.11,82.5
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,7,45.3592,317.5144,7.33,7.42,7.33,7.75,7.42,7.67,10.0,10.0,0.12,82.5
+Brazil,2012,nucoffee,Arabica,Catuai,Blue-Green,39,60.0,2340.0,7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,0.12,82.42
+Honduras,2012,brent hall,Arabica,,,1,2.0,2.0,7.25,7.67,7.42,7.17,7.75,7.5,10.0,10.0,0.09,82.42
+Mexico,2012,manuel herrera juarez,Arabica,Caturra,Green,10,1.0,10.0,7.75,7.33,7.25,7.58,7.58,7.33,10.0,10.0,0.13,82.42
+Mexico,2012,dario cesar galeana sanchez,Arabica,Typica,Green,74,1.0,74.0,7.5,7.58,7.33,7.5,7.5,7.5,10.0,10.0,0.11,82.42
+Mexico,2012,jose daniel cobilt castro,Arabica,Pacamara,Green,26,1.0,26.0,7.58,7.58,7.17,7.5,7.5,7.5,10.0,10.0,0.14,82.42
+Mexico,2012,alvaro quiros perez,Arabica,Caturra,Green,10,1.0,10.0,7.58,7.33,7.33,7.58,7.5,7.5,10.0,10.0,0.11,82.42
+Mexico,2012,olivia hernandez virves,Arabica,Bourbon,Unknown,1,1.0,1.0,7.67,7.58,7.33,7.42,7.58,7.33,10.0,10.0,0.13,82.42
+Mexico,2012,finca las nieves,Arabica,Typica,Bluish-Green,10,1.0,10.0,7.83,7.5,7.42,7.67,7.17,7.33,10.0,10.0,0.12,82.42
+Colombia,2012,carcafe ltda ci,Arabica,Caturra,Unknown,250,70.0,17500.0,7.67,7.33,7.25,7.42,7.5,7.67,10.0,10.0,0.0,82.42
+Brazil,2012,nucoffee,Arabica,Arusha,Blue-Green,51,60.0,3060.0,7.75,7.5,7.42,7.42,7.5,7.42,10.0,10.0,0.11,82.42
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,275,69.0,18975.0,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,0.11,82.33
+Mexico,2012,saul m. hernandez ramirez,Arabica,Typica,,10,1.0,10.0,7.58,7.67,7.58,7.33,7.0,7.58,10.0,10.0,0.15,82.33
+Mexico,2012,manuel herrera juarez,Arabica,Bourbon,Green,10,1.0,10.0,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,0.13,82.33
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.5,7.67,7.33,7.5,7.33,7.5,10.0,10.0,0.1,82.33
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,16,60.0,960.0,7.58,7.5,7.42,7.5,7.5,7.42,10.0,10.0,0.12,82.33
+Mexico,2012,maria luisa del carmen rojas narvaez,Arabica,Typica,Green,10,1.0,10.0,8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,0.11,82.33
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,44,60.0,2640.0,7.58,7.58,7.25,7.58,7.42,7.5,10.0,10.0,0.11,82.33
+Colombia,2012,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.83,7.58,7.33,7.25,7.58,7.42,10.0,10.0,0.0,82.33
+Mexico,2012,saul m. hernandez ramirez,Arabica,Bourbon,,10,1.0,10.0,7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,0.16,82.25
+Mexico,2012,manuel herrera juarez,Arabica,Bourbon,Green,10,1.0,10.0,7.5,7.58,7.42,7.67,7.33,7.42,10.0,10.0,0.13,82.25
+Mexico,2012,guillermo rojas saldana,Arabica,Typica,Green,40,1.0,40.0,7.67,7.58,7.33,7.5,7.42,7.42,10.0,10.0,0.12,82.25
+El Salvador,2012,adam kline,Arabica,Other,Green,288,1.0,288.0,7.75,7.33,7.33,7.5,7.5,7.5,10.0,10.0,0.0,82.25
+Mexico,2012,sergio de la vequia bernardi,Arabica,Typica,Green,250,1.0,250.0,7.33,7.58,7.42,7.67,7.33,7.5,10.0,10.0,0.11,82.25
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Green,250,1.0,250.0,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,0.1,82.25
+Colombia,2012,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.5,7.42,7.67,7.33,7.58,7.33,10.0,10.0,0.12,82.25
+Colombia,2012,racafe & cia s.c.a,Arabica,Caturra,Green,100,70.0,7000.0,7.67,7.33,7.33,7.33,7.5,7.5,10.0,10.0,0.11,82.25
+Brazil,2012,nucoffee,Arabica,Arusha,Green,84,60.0,5040.0,7.67,7.58,7.42,7.0,7.5,7.58,10.0,10.0,0.12,82.25
+Mexico,2012,saul m. hernandez ramirez,Arabica,Typica,,10,1.0,10.0,7.5,7.67,7.0,7.5,7.33,7.5,10.0,10.0,0.15,82.17
+Guatemala,2012,the coffee source inc.,Arabica,Caturra,,250,1.0,250.0,7.25,7.75,7.0,7.75,8.17,7.75,10.0,9.33,0.12,82.17
+Mexico,2012,salvador caro carrion,Arabica,Typica,Green,200,1.0,200.0,7.5,7.58,7.25,7.5,7.5,7.33,10.0,10.0,0.12,82.17
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Green,60,1.0,60.0,7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,0.1,82.17
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,4,45.3592,181.4368,7.25,7.58,7.58,7.25,7.5,7.42,10.0,10.0,0.11,82.08
+Mexico,2012,julio perez hernandez,Arabica,Typica,Green,250,1.0,250.0,7.5,7.42,7.42,7.5,7.25,7.5,10.0,10.0,0.13,82.08
+Mexico,2012,rosa aurora falcon fernandez,Arabica,Typica,Green,15,1.0,15.0,7.67,7.5,7.25,7.58,7.42,7.33,10.0,10.0,0.11,82.08
+Vietnam,2012,royal base corporation,Arabica,Other,Green,1,2.0,2.0,7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,0.12,82.08
+Mexico,2012,sergio de la vequia bernardi,Arabica,Typica,Green,250,1.0,250.0,7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,0.11,82.08
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,10,45.3592,453.592,7.33,7.5,7.33,7.58,7.08,7.83,10.0,10.0,0.1,82.08
+Mexico,2012,jorge octavio escamilla prado,Arabica,Typica,Green,15,1.0,15.0,7.67,7.33,7.25,7.5,7.42,7.42,10.0,10.0,0.12,82.0
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,50,60.0,3000.0,7.42,7.5,7.33,7.5,7.33,7.5,10.0,10.0,0.12,82.0
+Brazil,2012,nucoffee,Arabica,Catuai,Blue-Green,75,60.0,4500.0,7.42,7.5,7.25,7.5,7.5,7.42,10.0,10.0,0.11,82.0
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,0.11,82.0
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,53,60.0,3180.0,7.58,7.5,7.17,7.5,7.5,7.42,10.0,10.0,0.12,82.0
+Guatemala,2012,felipe isaza,Arabica,Bourbon,Green,250,2.0,500.0,7.75,7.33,7.33,7.42,7.75,7.67,10.0,9.33,0.0,82.0
+Honduras,2012,rob tuttle,Arabica,,Green,1,2.0,2.0,7.42,7.33,7.33,7.58,7.33,7.5,10.0,10.0,0.11,81.92
+Mexico,2012,saul m. hernandez ramirez,Arabica,Typica,,10,1.0,10.0,7.5,7.5,7.25,7.25,7.5,7.5,10.0,10.0,0.13,81.92
+Mexico,2012,saul m. hernandez ramirez,Arabica,Mundo Novo,,10,1.0,10.0,7.5,7.42,7.25,7.5,7.33,7.33,10.0,10.0,0.14,81.92
+Mexico,2012,juan hermilio sampieri carcamo,Arabica,Other,Green,30,1.0,30.0,7.33,7.58,7.17,7.58,7.42,7.33,10.0,10.0,0.12,81.92
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,8,60.0,480.0,7.42,7.58,7.25,7.5,7.33,7.5,10.0,10.0,0.12,81.92
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,19,45.3592,861.8248,7.83,7.83,7.83,8.0,7.83,7.83,10.0,10.0,0.0,81.83
+Mexico,2012,christina dusing,Arabica,Bourbon,Green,302,1.0,302.0,7.83,7.33,7.25,7.58,7.25,7.33,10.0,10.0,0.12,81.83
+Mexico,2012,jorge francisco martinez hachity,Arabica,Typica,Green,15,1.0,15.0,7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,0.12,81.83
+Mexico,2012,saul m. hernandez ramirez,Arabica,Bourbon,,10,1.0,10.0,7.5,7.5,7.33,7.42,7.25,7.25,10.0,10.0,0.13,81.75
+Mexico,2012,sergio landa alarcon,Arabica,Mundo Novo,Green,100,1.0,100.0,7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,0.13,81.75
+Mexico,2012,diego manuel woolrich ramirez,Arabica,Typica,Green,42,1.0,42.0,7.42,7.5,7.33,7.58,7.33,7.33,10.0,10.0,0.11,81.75
+Mexico,2012,armando luis pohlenz martinez,Arabica,Caturra,Green,250,1.0,250.0,7.33,7.42,7.33,7.67,7.42,7.25,10.0,10.0,0.12,81.75
+Mexico,2012,enrique eduardo lopez aguilar,Arabica,Typica,Unknown,28,1.0,28.0,7.5,7.42,7.25,7.33,7.67,7.25,10.0,10.0,0.12,81.75
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,275,69.0,18975.0,7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,0.11,81.67
+Mexico,2012,virginia gordillo gordillo,Arabica,Typica,Green,100,1.0,100.0,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10.0,0.13,81.67
+Mexico,2012,jose luis munoz guerrero,Arabica,Bourbon,Green,15,1.0,15.0,7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,0.11,81.67
+Mexico,2012,christina dusing,Arabica,Bourbon,Green,275,1.0,275.0,7.5,7.42,7.33,7.42,7.42,7.42,10.0,10.0,0.11,81.67
+Mexico,2012,alfredo bojalil,Arabica,Bourbon,Green,250,1.0,250.0,7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,0.11,81.67
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,13,45.3592,589.6696000000001,7.42,7.33,7.33,7.33,7.17,7.83,10.0,10.0,0.1,81.67
+Mexico,2012,enrique eduardo lopez aguilar,Arabica,Marigojipe,Unknown,28,1.0,28.0,7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,0.11,81.58
+Mexico,2012,enrique eduardo lopez aguilar,Arabica,Typica,Unknown,28,1.0,28.0,7.67,7.58,7.42,7.58,7.58,7.42,10.0,8.67,0.11,81.58
+Mexico,2012,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,0.12,81.5
+Mexico,2012,jose luis munoz guerrero,Arabica,Catuai,Green,30,1.0,30.0,7.42,7.25,7.17,7.42,7.17,8.0,10.0,10.0,0.12,81.5
+Mexico,2012,jose luis munoz guerrero,Arabica,Typica,Green,20,1.0,20.0,7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,0.11,81.5
+Mexico,2012,tomas edelmann blass,Arabica,Bourbon,Green,50,80.0,4000.0,7.42,7.42,7.33,7.17,7.25,7.42,10.0,10.0,0.13,81.5
+Mexico,2012,maria de la paz aguilar guillen,Arabica,Typica,Green,15,1.0,15.0,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,0.11,81.5
+Indonesia,2012,specialty coffee association of indonesia,Arabica,Other,Green,10,60.0,600.0,7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,0.12,81.5
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,0.11,81.5
+Mexico,2012,saul m. hernandez ramirez,Arabica,Caturra,,10,1.0,10.0,7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,0.13,81.42
+Mexico,2012,grupo cafetalero los brujos spr de rl,Arabica,Typica,Unknown,20,1.0,20.0,7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,0.13,81.42
+Mexico,2012,julio perez hernandez,Arabica,Typica,Green,250,1.0,250.0,7.58,7.42,7.25,7.33,7.25,7.25,10.0,10.0,0.13,81.33
+Mexico,2012,hector gabriel barreda nader,Arabica,Typica,,70,1.0,70.0,7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,0.12,81.33
+Mexico,2012,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10.0,0.12,81.25
+Mexico,2012,julio perez hernandez,Arabica,Typica,Green,250,1.0,250.0,7.42,7.25,7.08,7.75,7.42,7.17,10.0,10.0,0.13,81.17
+Guatemala,2012,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.42,7.25,7.33,7.25,7.25,7.42,10.0,10.0,0.12,81.17
+Brazil,2012,nucoffee,Arabica,Mundo Novo,Green,17,60.0,1020.0,7.42,7.33,7.25,7.42,7.5,7.17,10.0,10.0,0.12,81.17
+Mexico,2012,obed rendon ponce,Arabica,Typica,,100,1.0,100.0,7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,0.13,81.08
+Mexico,2012,diego manuel woolrich ramirez,Arabica,Typica,Green,30,1.0,30.0,7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,0.12,81.08
+Mexico,2012,gerardo hernandez valderrabano,Arabica,Typica,Green,40,1.0,40.0,7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,0.11,81.08
+Mexico,2012,balbino ramirez flores,Arabica,Typica,Green,15,1.0,15.0,7.42,7.33,7.25,7.42,7.17,7.25,10.0,10.0,0.1,81.08
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Blue-Green,2,45.3592,90.7184,7.42,7.42,7.25,7.58,6.92,7.17,10.0,10.0,0.06,81.08
+Thailand,2012,doi tung development project,Arabica,,Green,2,1.0,2.0,7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,0.0,81.0
+Mexico,2012,alejandro garcia palacios,Arabica,Other,Green,10,1.0,10.0,7.08,7.33,7.33,7.33,7.42,7.25,10.0,10.0,0.12,81.0
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Green,200,1.0,200.0,7.58,7.67,7.5,7.67,7.58,7.5,8.0,10.0,0.0,81.0
+Mexico,2012,eduardo luis augusto velazquez solis,Arabica,Typica,Green,60,1.0,60.0,7.58,7.33,7.08,7.5,7.17,7.25,10.0,10.0,0.13,80.92
+Mexico,2012,luis roberto fermoso beltran,Arabica,Catuai,Green,15,1.0,15.0,7.17,7.08,7.25,7.42,7.25,7.33,10.0,10.0,0.13,80.83
+Mexico,2012,christina dusing,Arabica,Bourbon,Green,100,1.0,100.0,7.5,7.17,7.33,7.25,7.17,7.17,10.0,10.0,0.13,80.83
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Blue-Green,7,45.3592,317.5144,7.42,7.33,7.0,7.25,7.33,7.5,10.0,10.0,0.1,80.83
+Mexico,2012,diego manuel woolrich ramirez,Arabica,Typica,Green,30,1.0,30.0,7.58,7.33,7.42,7.25,7.5,7.5,9.33,10.0,0.11,80.75
+Haiti,2012,myriam kaplan-pasternak,Arabica,Typica,Green,1,2.0,2.0,7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,0.12,80.75
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,0.11,80.67
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.0,7.5,7.33,7.17,7.17,7.17,10.0,10.0,0.11,80.67
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,18,1.0,18.0,7.25,7.25,7.08,7.33,7.25,7.17,10.0,10.0,0.15,80.5
+Mexico,2012,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,6.92,7.17,7.08,7.5,7.33,7.17,10.0,10.0,0.1,80.42
+Mexico,2012,armando luis pohlenz martinez,Arabica,Caturra,Green,250,1.0,250.0,7.42,7.08,7.08,7.33,7.25,7.17,10.0,10.0,0.12,80.42
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,10,45.3592,453.592,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10.0,0.12,80.33
+Colombia,2012,honor dela fuente,Arabica,Typica,Green,1,2.0,2.0,7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,0.1,80.25
+Guatemala,2012,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.0,7.17,7.33,7.33,7.0,7.17,10.0,10.0,0.11,80.25
+Mexico,2012,saul m. hernandez ramirez,Arabica,Caturra,,10,1.0,10.0,7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,0.11,80.25
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,Green,15,1.0,15.0,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10.0,0.14,80.17
+Mexico,2012,marco virgilio ramirez teliz,Arabica,Bourbon,Green,15,1.0,15.0,7.33,7.33,7.17,7.08,7.25,7.0,10.0,10.0,0.12,80.17
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.33,7.33,7.0,7.33,7.0,7.0,10.0,10.0,0.11,80.17
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,13,1.0,13.0,7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,0.15,80.08
+Mexico,2012,federico pacheco perez,Arabica,Typica,Green,10,1.0,10.0,7.25,7.08,7.0,7.17,7.33,7.17,10.0,10.0,0.14,80.08
+Thailand,2012,doi tung development project,Arabica,,Green,2,1.0,2.0,7.33,6.67,7.08,7.42,7.42,7.08,10.0,10.0,0.0,80.0
+Mexico,2012,pablo enrique martinez gama,Arabica,Typica,Green,20,1.0,20.0,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,0.12,80.0
+Mexico,2012,semiramis casas velazquez,Arabica,Other,Green,256,1.0,256.0,7.08,7.33,7.0,7.33,7.08,7.0,10.0,10.0,0.11,80.0
+Mexico,2012,alejandro garcia palacios,Arabica,Other,Green,10,1.0,10.0,7.17,7.17,6.92,7.25,7.33,7.08,10.0,10.0,0.12,79.92
+Mexico,2012,christina dusing,Arabica,Bourbon,Unknown,82,1.0,82.0,7.5,7.17,7.0,7.17,7.25,7.08,10.0,10.0,0.0,79.92
+Mexico,2012,montegrande,Arabica,Catuai,Green,250,1.0,250.0,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10.0,0.11,79.92
+Mexico,2012,pablo enrique martinez gama,Arabica,Typica,Green,100,1.0,100.0,7.33,7.25,7.0,7.42,7.17,7.17,9.33,10.0,0.12,79.92
+Mexico,2012,sergio de la vequia bernardi,Arabica,Typica,Green,250,1.0,250.0,7.17,7.08,7.0,7.25,7.5,7.0,10.0,10.0,0.12,79.83
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Blue-Green,12,45.3592,544.3104000000001,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10.0,0.12,79.83
+Mexico,2012,israel eduardo paz garcia,Arabica,Bourbon,,12,1.0,12.0,7.25,7.17,7.17,7.08,7.17,7.0,10.0,10.0,0.14,79.75
+Mexico,2012,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.33,7.25,7.0,7.08,7.08,7.0,10.0,10.0,0.1,79.75
+Guatemala,2012,lusso lab,Arabica,Bourbon,Green,275,69.0,18975.0,7.58,7.33,7.5,7.33,7.0,7.33,9.33,9.33,0.0,79.75
+Mexico,2012,montegrande,Arabica,Typica,Unknown,36,1.0,36.0,7.25,6.83,6.92,7.08,7.25,7.08,10.0,10.0,0.12,79.75
+Mexico,2012,saul m. hernandez ramirez,Arabica,Caturra,,10,1.0,10.0,7.33,7.17,7.0,6.75,7.08,7.0,10.0,10.0,0.13,79.67
+Mexico,2012,alfredo bojalil,Arabica,Mundo Novo,Unknown,253,1.0,253.0,6.92,7.17,7.17,7.17,7.08,7.08,10.0,10.0,0.0,79.67
+Mexico,2012,obed rendon ponce,Arabica,Typica,,50,1.0,50.0,7.08,7.0,6.92,7.33,7.25,7.08,10.0,10.0,0.12,79.58
+Mexico,2012,armando luis pohlenz martinez,Arabica,Caturra,Green,250,1.0,250.0,7.25,6.92,6.92,7.33,7.25,7.0,10.0,10.0,0.13,79.58
+Mexico,2012,armando luis pohlenz martinez,Arabica,Caturra,Green,250,1.0,250.0,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10.0,0.12,79.5
+Mexico,2012,mario jose fernandez,Arabica,Typica,Bluish-Green,127,1.0,127.0,7.25,7.33,7.0,7.25,7.17,7.17,9.33,10.0,0.12,79.5
+Mexico,2012,eric jesus cordoba arroyo,Arabica,Typica,,30,1.0,30.0,7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,0.14,79.33
+Mexico,2012,eric jesus cordoba arroyo,Arabica,Typica,Green,50,1.0,50.0,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,0.14,79.33
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.17,6.5,6.33,7.25,7.58,7.33,10.0,10.0,0.11,79.33
+Mexico,2012,marco virgilio ramirez teliz,Arabica,Bourbon,Green,12,1.0,12.0,7.0,7.0,6.92,7.17,7.17,7.08,10.0,10.0,0.13,79.25
+Costa Rica,2012,brent hall,Arabica,Catuai,,1,2.0,2.0,7.17,7.42,7.5,8.0,7.25,7.83,10.0,6.67,0.1,79.17
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,10,1.0,10.0,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10.0,0.14,79.17
+Mexico,2012,julio cesar robles flores,Arabica,Typica,Green,53,1.0,53.0,7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,0.14,79.17
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,13,1.0,13.0,7.33,7.0,6.92,7.25,7.33,7.08,9.33,10.0,0.16,79.08
+Mexico,2012,balbino ramirez flores,Arabica,Typica,Bluish-Green,10,1.0,10.0,7.17,7.25,7.25,7.17,7.25,7.08,9.33,10.0,0.1,79.08
+Peru,2012,sustainable harvest coffee,Arabica,Typica,Unknown,280,69.0,19320.0,7.67,7.17,7.08,7.25,8.0,7.5,8.67,9.33,0.0,79.0
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,Green,16,1.0,16.0,7.5,7.17,6.92,7.5,7.25,7.0,8.67,10.0,0.14,79.0
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,14,1.0,14.0,7.5,7.0,6.92,7.08,6.92,6.75,10.0,10.0,0.16,78.92
+Mexico,2012,octavio augusto diaz trejo,Arabica,Typica,Green,20,1.0,20.0,7.25,6.83,6.83,7.0,7.17,7.0,10.0,10.0,0.14,78.75
+Mexico,2012,damaso martinez perez,Arabica,Typica,,35,1.0,35.0,7.25,7.33,7.17,7.25,7.08,7.0,8.67,10.0,0.14,78.75
+Mexico,2012,"productores de especialidad emiliano zapeata, spr.",Arabica,Bourbon,Unknown,10,1.0,10.0,7.67,7.17,6.83,7.33,7.58,7.17,9.33,8.67,0.12,78.75
+Mexico,2012,juan garcia hernandez,Arabica,Caturra,,20,1.0,20.0,6.92,6.92,6.67,7.25,7.17,6.92,10.0,10.0,0.13,78.67
+Mexico,2012,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,0.13,78.58
+Mexico,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Unknown,50,1.0,50.0,7.92,7.58,7.58,7.92,7.92,7.5,8.0,10.0,0.1,78.58
+Mexico,2012,francisco ruiz nunez,Arabica,Caturra,Green,20,1.0,20.0,7.25,7.17,7.0,6.83,7.58,7.08,8.67,10.0,0.13,78.5
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,10,1.0,10.0,7.58,7.17,7.0,7.17,7.33,7.0,8.0,10.0,0.14,78.42
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.17,7.17,6.5,7.17,7.0,6.83,10.0,10.0,0.11,78.33
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.17,6.08,6.17,7.25,7.33,7.33,10.0,10.0,0.11,78.33
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Green,5,45.3592,226.796,7.42,7.33,7.33,7.5,7.67,7.75,8.0,9.33,0.11,78.25
+Mexico,2012,gustavo amieva gonzalez,Arabica,Typica,Green,320,1.0,320.0,7.08,6.83,6.67,7.25,7.25,6.92,10.0,10.0,0.11,78.08
+Mexico,2012,alejandro garcia palacios,Arabica,Other,Green,10,1.0,10.0,7.25,7.33,7.0,7.0,7.25,7.08,10.0,8.0,0.12,78.0
+Mexico,2012,gustavo abarca solis,Arabica,Typica,Green,50,1.0,50.0,7.42,7.25,7.0,7.0,7.25,7.08,8.0,10.0,0.11,77.92
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.17,6.17,6.17,7.08,7.33,6.83,10.0,10.0,0.11,77.92
+Mexico,2012,stephany escamilla femat,Arabica,Typica,Green,23,1.0,23.0,7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,0.13,77.5
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,10,1.0,10.0,7.33,7.0,6.67,7.0,6.92,6.92,9.33,10.0,0.15,77.33
+Mexico,2012,alejandro garcia palacios,Arabica,Other,Green,10,1.0,10.0,7.08,7.0,7.0,7.25,7.33,7.25,8.67,10.0,0.12,77.17
+Mexico,2012,homero antonio de anda andrade,Arabica,Typica,Green,10,1.0,10.0,7.17,6.58,6.58,7.0,7.25,6.58,9.33,10.0,0.13,76.42
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,0.11,76.33
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,11,1.0,11.0,7.42,7.0,6.83,7.08,6.92,6.83,7.33,10.0,0.16,76.17
+Philippines,2012,ana gonzales,Arabica,,Green,1,2.0,2.0,6.83,6.5,6.5,6.92,6.75,7.0,9.33,9.33,0.12,75.83
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.92,7.58,7.17,7.58,7.33,7.17,8.0,8.0,0.11,75.58
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Unknown,250,1.0,250.0,6.67,6.5,6.33,7.0,7.17,6.75,8.67,10.0,0.12,75.58
+Mexico,2012,francisco hernandez lorenzo,Arabica,Mundo Novo,Green,100,1.0,100.0,7.17,6.92,6.67,6.83,7.25,7.75,10.0,10.0,0.11,75.17
+Mexico,2012,montegrande,Arabica,Other,Unknown,36,1.0,36.0,7.25,6.83,6.67,7.08,7.17,6.83,10.0,10.0,0.12,75.17
+Mexico,2012,martin jimenez casiano,Arabica,Typica,Bluish-Green,18,1.0,18.0,7.17,7.17,6.83,7.17,7.42,6.67,8.67,10.0,0.13,75.17
+Mexico,2012,"grupo juvenil magtayani, ac",Arabica,Typica,Green,43,1.0,43.0,7.0,6.92,6.75,6.92,7.17,6.83,10.0,10.0,0.14,75.0
+Mexico,2012,israel eduardo paz garcia,Arabica,Typica,,14,1.0,14.0,7.08,6.75,6.58,7.0,7.0,6.75,8.67,10.0,0.17,74.92
+Mexico,2012,pablo enrique martinez gama,Arabica,Typica,Green,20,1.0,20.0,7.33,6.75,6.67,7.25,7.5,7.0,10.0,10.0,0.12,74.83
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Unknown,250,1.0,250.0,6.75,6.5,6.17,7.0,7.25,6.75,8.0,10.0,0.11,74.75
+Guatemala,2012,juan luis alvarado romero,Arabica,Bourbon,Unknown,250,1.0,250.0,6.75,6.67,6.17,7.17,7.0,6.58,8.0,10.0,0.11,74.75
+Mexico,2012,jorge octavio escamilla prado,Arabica,Typica,Green,20,1.0,20.0,7.0,6.58,6.67,6.83,7.08,6.83,10.0,10.0,0.14,74.33
+Mexico,2012,myrna roxana galvez gonzalez,Arabica,Typica,,100,1.0,100.0,6.92,6.42,6.17,7.33,7.25,6.75,10.0,10.0,0.13,74.0
+Mexico,2012,eugene holman pew,Arabica,Typica,Green,20,1.0,20.0,7.67,7.0,7.17,7.58,7.33,7.33,10.0,10.0,0.12,73.83
+United States,2012,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Unknown,22,45.3592,997.9024000000001,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,0.0,73.67
+Mexico,2012,jose armando norberto borzani lemini,Arabica,Mundo Novo,Green,10,1.0,10.0,6.92,6.92,6.92,6.92,7.17,7.0,10.0,10.0,0.12,71.08
+Mexico,2012,ricardo aaron sampieri marini,Arabica,Bourbon,Green,25,1.0,25.0,6.5,6.67,6.42,7.17,7.33,6.5,8.0,10.0,0.11,71.0
+Mexico,2012,juan carlos garcia lopez,Arabica,Bourbon,,12,1.0,12.0,7.08,6.83,6.25,7.42,7.25,6.75,10.0,10.0,0.11,68.33
+Haiti,2012,myriam kaplan-pasternak,Arabica,Typica,Blue-Green,1,2.0,2.0,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,0.14,67.92
+Guatemala,2012,juan luis alvarado romero,Arabica,Catuai,Green,275,1.0,275.0,7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,0.1,59.83
+India,2012,andrew hetzel,Robusta,,Green,200,1.0,200.0,8.0,7.92,7.67,8.0,7.75,7.92,10.0,7.75,0.0,82.75
+United States,2012,andrew hetzel,Robusta,Arusha,Green,100,1.0,100.0,7.92,7.5,7.42,7.42,7.42,7.42,9.33,7.58,0.0,79.33
+Brazil,2013,ji-ae ahn,Arabica,,Bluish-Green,100,30.0,3000.0,8.58,8.42,8.42,8.5,8.25,8.33,10.0,10.0,0.11,88.83
+Ethiopia,2013,ji-ae ahn,Arabica,,Bluish-Green,100,60.0,6000.0,8.42,8.17,7.92,8.17,8.33,8.0,10.0,10.0,0.11,87.08
+Uganda,2013,kabum trading company,Arabica,SL14,Green,100,60.0,6000.0,8.42,8.17,8.17,8.17,7.83,7.92,10.0,10.0,0.12,86.83
+Kenya,2013,daniel magu,Arabica,SL34,Blue-Green,320,1.0,320.0,8.08,8.0,8.0,8.25,7.92,7.92,10.0,10.0,0.12,86.25
+Colombia,2013,lusso lab,Arabica,Caturra,Green,1,2.0,2.0,7.75,7.92,7.83,8.08,8.08,8.17,10.0,10.0,0.12,86.0
+Kenya,2013,lusso lab,Arabica,SL28,Green,1,1.0,1.0,7.92,8.17,7.83,8.5,7.5,7.92,10.0,10.0,0.11,86.0
+Uganda,2013,kawacom uganda ltd,Arabica,SL14,Green,1,60.0,60.0,8.17,8.17,7.92,8.08,7.83,7.75,10.0,10.0,0.12,85.92
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Blue-Green,275,70.0,19250.0,8.0,8.0,8.0,8.17,7.83,8.0,10.0,10.0,0.0,85.92
+Peru,2013,dane loraas,Arabica,,Green,280,2.26796,635.0288,8.0,8.0,8.0,8.08,7.92,7.75,10.0,10.0,0.1,85.75
+El Salvador,2013,atlantic specialty coffee,Arabica,Bourbon,Blue-Green,275,2.0,550.0,7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,0.1,85.58
+Uganda,2013,kyagalanyi ltd,Arabica,SL14,Green,320,60.0,19200.0,8.33,7.92,7.67,7.92,7.67,7.92,10.0,10.0,0.12,85.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,0.11,85.5
+Uganda,2013,great lakes coffee uganda,Arabica,SL14,Green,150,60.0,9000.0,8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,0.12,85.42
+Uganda,2013,kawacom uganda ltd,Arabica,SL14,Green,1,60.0,60.0,7.75,7.92,7.67,7.67,8.25,7.75,10.0,10.0,0.12,84.83
+Kenya,2013,daniel magu,Arabica,Peaberry,Bluish-Green,100,60.0,6000.0,7.83,7.83,7.83,7.75,7.58,7.83,10.0,10.0,0.1,84.58
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Unknown,75,70.0,5250.0,7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,0.0,84.58
+Kenya,2013,taylor winch (coffee) ltd.,Arabica,SL28,Green,11,60.0,660.0,7.75,7.75,7.75,8.08,7.75,7.75,10.0,10.0,0.0,84.58
+China,2013,eric wu,Arabica,Other,Green,1,2.0,2.0,7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,0.0,84.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,8.17,7.83,7.67,7.83,7.67,7.83,10.0,10.0,0.11,84.5
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,275,70.0,19250.0,7.75,7.58,7.33,7.83,7.58,8.08,10.0,10.0,0.0,84.33
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,0.11,84.25
+Guatemala,2013,chris finch,Arabica,,Bluish-Green,275,2.26796,623.689,7.67,7.75,7.67,7.75,7.75,7.75,10.0,10.0,0.11,84.17
+Kenya,2013,itochu corporation,Arabica,SL28,Green,300,60.0,18000.0,7.58,7.75,7.75,7.75,7.75,7.83,10.0,10.0,0.08,84.17
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.92,7.75,7.67,7.67,7.83,7.92,10.0,10.0,0.11,84.17
+El Salvador,2013,atlantic specialty coffee,Arabica,Bourbon,Bluish-Green,275,2.0,550.0,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10.0,0.11,84.17
+Ethiopia,2013,lusso lab,Arabica,Other,Green,50,60.0,3000.0,7.75,7.75,7.5,7.58,7.67,7.92,10.0,10.0,0.09,84.0
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,270,70.0,18900.0,7.67,7.83,7.67,7.75,7.67,7.75,10.0,10.0,0.11,84.0
+Costa Rica,2013,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,0.1,83.83
+Ecuador,2013,garet alban,Arabica,,Bluish-Green,1,2.26796,2.26796,7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,0.09,83.83
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,0.11,83.83
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,0.11,83.83
+Uganda,2013,nile highland arabica coffee farmers,Arabica,Bourbon,Green,320,60.0,19200.0,8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,0.12,83.75
+United States,2013,german negron,Arabica,Other,Green,18,2.26796,40.82328,7.83,7.83,7.83,7.67,8.0,8.17,9.33,10.0,0.12,83.75
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Blue-Green,250,70.0,17500.0,7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,0.0,83.75
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,275,70.0,19250.0,7.75,7.67,7.75,7.58,7.42,8.0,10.0,10.0,0.11,83.75
+United States,2013,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,12,45.3592,544.3104000000001,7.25,7.42,7.67,7.58,7.83,8.25,10.0,10.0,0.0,83.75
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.83,7.75,7.67,7.58,7.58,7.67,10.0,10.0,0.0,83.67
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,0.0,83.67
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.67,7.67,7.42,7.67,8.0,7.75,10.0,10.0,0.12,83.67
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.67,7.33,7.67,7.67,7.83,10.0,10.0,0.11,83.67
+Uganda,2013,bulamburi coffee farmers association,Arabica,SL14,Green,100,60.0,6000.0,7.67,7.67,7.42,7.75,7.75,7.67,10.0,10.0,0.12,83.58
+Guatemala,2013,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.58,7.75,7.5,7.83,7.42,7.67,10.0,10.0,0.1,83.5
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.58,7.75,7.42,7.67,7.75,7.67,10.0,10.0,0.0,83.5
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.58,7.67,7.58,7.75,7.58,7.75,10.0,10.0,0.11,83.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.75,7.83,7.33,7.83,7.5,7.67,10.0,10.0,0.1,83.42
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,0.11,83.42
+Costa Rica,2013,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,0.11,83.33
+Peru,2013,dane loraas,Arabica,,Green,280,2.26796,635.0288,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10.0,0.12,83.33
+Colombia,2013,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,0.11,83.33
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,0.11,83.33
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,275,70.0,19250.0,7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,0.11,83.25
+Mexico,2013,calixto guillen vazquez,Arabica,Bourbon,Green,200,1.0,200.0,7.58,7.75,7.5,7.5,7.58,7.58,10.0,10.0,0.12,83.25
+Honduras,2013,mayra yessenia torres,Arabica,Catuai,Green,275,1.0,275.0,7.5,7.5,7.5,7.67,7.67,7.67,10.0,10.0,0.1,83.17
+United States,2013,eileen koyanagi,Arabica,Hawaiian Kona,Bluish-Green,6,45.3592,272.15520000000004,7.5,7.5,7.58,7.42,7.92,7.67,10.0,10.0,0.11,83.17
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.67,7.83,7.33,7.67,7.5,7.67,10.0,10.0,0.11,83.17
+Mexico,2013,nestor mendez gomez,Arabica,Typica,Green,45,1.0,45.0,7.75,7.58,7.58,7.58,7.5,7.42,10.0,10.0,0.11,83.17
+United States,2013,eileen koyanagi,Arabica,Hawaiian Kona,Bluish-Green,16,45.3592,725.7472,7.33,7.75,7.58,7.33,7.83,7.67,10.0,10.0,0.12,83.08
+Uganda,2013,star cafe ltd,Arabica,SL14,Green,300,60.0,18000.0,7.83,7.58,7.5,7.5,7.58,7.5,10.0,10.0,0.12,83.0
+United States,2013,german negron,Arabica,Other,Bluish-Green,17,2.26796,38.55532,7.67,7.5,7.67,7.83,7.75,7.83,10.0,9.33,0.0,83.0
+Costa Rica,2013,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,0.11,83.0
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Green,120,70.0,8400.0,7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,0.11,83.0
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.83,7.5,7.58,7.33,7.5,7.67,10.0,10.0,0.0,83.0
+Colombia,2013,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.33,7.67,7.75,7.42,7.75,7.58,10.0,10.0,0.11,83.0
+Colombia,2013,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.58,7.75,7.42,7.67,7.58,7.42,10.0,10.0,0.0,83.0
+Uganda,2013,kawacom uganda ltd,Arabica,SL14,Green,1,60.0,60.0,8.0,7.5,7.5,7.58,7.33,7.42,10.0,10.0,0.12,82.92
+Uganda,2013,nyapea coffee farmers association,Arabica,SL14,Green,1,60.0,60.0,7.75,7.58,7.58,7.5,7.5,7.5,10.0,10.0,0.12,82.92
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Green,250,70.0,17500.0,7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,0.11,82.92
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Bluish-Green,250,70.0,17500.0,7.75,7.5,7.25,7.5,7.75,7.5,10.0,10.0,0.0,82.92
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.75,7.25,7.92,7.5,7.17,10.0,10.0,0.11,82.92
+Colombia,2013,olam agro colombia,Arabica,Other,Green,250,70.0,17500.0,7.83,7.67,7.42,7.42,7.5,7.58,10.0,10.0,0.11,82.92
+Colombia,2013,"coffeebythebag.com , inc",Arabica,Typica,Green,40,1.0,40.0,7.5,7.42,7.58,7.5,7.58,7.58,10.0,10.0,0.0,82.83
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Green,125,70.0,8750.0,7.83,7.5,7.5,7.42,7.5,7.5,10.0,10.0,0.11,82.83
+United States,2013,eileen koyanagi,Arabica,Hawaiian Kona,Blue-Green,10,36.28736,362.8736,7.67,7.58,7.42,7.83,7.33,7.5,10.0,10.0,0.1,82.75
+United States,2013,eileen koyanagi,Arabica,Hawaiian Kona,Green,6,45.3592,272.15520000000004,7.58,7.83,7.75,7.75,7.42,8.0,9.33,10.0,0.1,82.75
+Colombia,2013,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.58,7.33,7.17,7.33,7.25,8.58,10.0,10.0,0.1,82.75
+Mexico,2013,nestor mendez gomez,Arabica,Typica,Green,32,1.0,32.0,7.58,7.58,7.5,7.5,7.5,7.5,10.0,10.0,0.12,82.75
+Uganda,2013,kawacom uganda ltd,Arabica,SL14,Green,1,60.0,60.0,7.67,7.5,7.33,7.67,7.5,7.5,10.0,10.0,0.12,82.67
+Uganda,2013,kawacom uganda ltd,Arabica,SL14,Green,1,60.0,60.0,7.83,7.5,7.42,7.58,7.42,7.42,10.0,10.0,0.12,82.58
+Costa Rica,2013,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,0.11,82.58
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Blue-Green,250,70.0,17500.0,7.75,7.25,7.33,7.42,7.5,7.83,10.0,10.0,0.11,82.58
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.58,7.5,7.42,7.58,7.67,7.42,10.0,10.0,0.11,82.58
+Mexico,2013,lusso lab,Arabica,Other,Green,2,2.0,4.0,7.42,7.58,7.5,7.67,7.25,7.5,10.0,10.0,0.0,82.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.42,7.33,7.67,7.42,7.5,10.0,10.0,0.12,82.5
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.5,7.5,7.42,7.42,7.58,7.58,10.0,10.0,0.11,82.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.67,7.17,7.33,7.5,7.67,10.0,10.0,0.11,82.5
+Guatemala,2013,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,0.1,82.42
+Peru,2013,dane loraas,Arabica,,Green,320,2.26796,725.7472,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10.0,0.0,82.42
+Mexico,2013,manuel herrera juarez,Arabica,Bourbon,Green,10,1.0,10.0,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10.0,0.12,82.42
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Green,250,70.0,17500.0,7.67,7.42,7.33,7.5,7.58,7.5,10.0,10.0,0.11,82.42
+Mexico,2013,nestor mendez gomez,Arabica,Typica,Green,49,1.0,49.0,7.5,7.42,7.42,7.67,7.42,7.58,10.0,10.0,0.12,82.42
+Colombia,2013,the coffee source inc.,Arabica,Caturra,Green,250,3.0,750.0,7.42,7.33,7.5,7.17,7.08,8.33,10.0,10.0,0.1,82.33
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.5,7.42,7.58,7.5,7.5,7.58,10.0,10.0,0.12,82.33
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.5,7.42,7.5,7.5,7.5,7.58,10.0,10.0,0.0,82.33
+Mexico,2013,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.67,7.5,7.42,7.5,7.42,7.42,10.0,10.0,0.12,82.33
+Mexico,2013,jesus carlos cardenas valdivia,Arabica,Mundo Novo,Blue-Green,150,1.0,150.0,7.58,7.58,7.42,7.42,7.42,7.42,10.0,10.0,0.12,82.25
+United States,2013,kona pacific farmers cooperative,Arabica,Hawaiian Kona,Bluish-Green,6,45.3592,272.15520000000004,7.33,7.42,7.5,7.67,7.5,7.42,10.0,10.0,0.0,82.25
+Mexico,2013,lusso lab,Arabica,Other,,2,2.0,4.0,7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,0.1,82.17
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Bluish-Green,250,70.0,17500.0,7.33,7.25,7.25,7.58,7.75,7.5,10.0,10.0,0.0,82.17
+Colombia,2013,cafe politico,Arabica,,Green,1,2.26796,2.26796,7.5,7.42,7.42,7.42,7.67,7.42,10.0,10.0,0.11,82.08
+Costa Rica,2013,"ceca, s.a.",Arabica,Caturra,Green,150,69.0,10350.0,7.58,7.33,7.33,7.33,7.5,7.67,10.0,10.0,0.11,82.08
+Thailand,2013,doi tung development project,Arabica,,Green,1,1.0,1.0,7.58,7.5,7.42,7.42,7.33,7.42,10.0,10.0,0.11,82.0
+Costa Rica,2013,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,0.1,82.0
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Green,250,70.0,17500.0,7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,0.11,82.0
+Nicaragua,2013,chris finch,Arabica,,Green,275,2.26796,623.689,7.58,7.42,7.25,7.17,7.5,7.67,10.0,10.0,0.12,81.92
+Mexico,2013,calixto guillen vazquez,Arabica,Bourbon,Green,450,1.0,450.0,7.58,7.5,7.25,7.58,7.5,7.25,10.0,10.0,0.12,81.92
+Colombia,2013,racafe & cia s.c.a,Arabica,Caturra,Bluish-Green,50,70.0,3500.0,7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,0.0,81.83
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.67,7.33,7.33,7.67,7.83,9.33,9.33,0.11,81.83
+Brazil,2013,cafe politico,Arabica,,Bluish-Green,1,2.26796,2.26796,7.17,7.25,7.17,7.25,7.42,8.25,10.0,10.0,0.1,81.75
+"Tanzania, United Republic Of",2013,tembo coffee company ltd,Arabica,Other,Green,10,60.0,600.0,7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,0.12,81.67
+Indonesia,2013,chris finch,Arabica,Sumatra,Bluish-Green,320,4.0,1280.0,7.17,7.42,7.33,7.42,7.33,7.42,10.0,10.0,0.11,81.67
+Costa Rica,2013,"ceca, s.a.",Arabica,Caturra,Green,275,69.0,18975.0,7.5,7.17,7.17,7.17,7.5,7.08,10.0,10.0,0.11,81.67
+Mexico,2013,fredy gordillo reyes,Arabica,Typica,Green,310,1.0,310.0,7.5,7.42,7.08,7.58,7.33,7.33,10.0,10.0,0.12,81.67
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,0.12,81.58
+Mexico,2013,fredy gordillo reyes,Arabica,Typica,Green,310,1.0,310.0,7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,0.12,81.58
+Haiti,2013,myriam kaplan-pasternak,Arabica,Blue Mountain,Bluish-Green,300,1.814368,544.3104,7.42,7.33,7.25,7.42,7.42,7.33,10.0,10.0,0.11,81.5
+Mexico,2013,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,0.13,81.5
+Peru,2013,dane loraas,Arabica,,Bluish-Green,280,2.26796,635.0288,7.42,7.42,7.17,7.33,7.42,7.42,10.0,10.0,0.1,81.42
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,0.12,81.42
+Guatemala,2013,juan luis alvarado romero,Arabica,Caturra,Green,250,69.0,17250.0,7.5,7.33,7.5,7.58,7.0,7.25,10.0,10.0,0.11,81.25
+Brazil,2013,bourbon specialty coffees,Arabica,Catuai,Green,300,1.0,300.0,7.42,7.42,7.17,7.42,7.33,7.25,10.0,10.0,0.11,81.17
+United States,2013,german negron,Arabica,Other,Green,18,2.26796,40.82328,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10.0,0.0,81.08
+Uganda,2013,kyagalanyi ltd,Arabica,SL14,Green,320,60.0,19200.0,7.33,6.92,7.17,7.33,7.42,7.42,10.0,10.0,0.12,81.0
+Nicaragua,2013,chris finch,Arabica,Caturra,Green,275,0.453592,124.7378,7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,0.1,80.92
+Guatemala,2013,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,0.11,80.83
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.67,7.17,7.0,7.5,7.0,7.0,10.0,10.0,0.12,80.67
+United States,2013,eileen koyanagi,Arabica,Hawaiian Kona,Green,10,45.3592,453.592,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10.0,0.11,80.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.5,7.5,7.0,7.67,7.17,7.0,10.0,10.0,0.12,80.5
+El Salvador,2013,lusso lab,Arabica,Bourbon,Green,2,2.0,4.0,7.33,7.17,7.08,7.08,7.33,7.17,10.0,10.0,0.0,80.42
+China,2013,adam ciruli ye,Arabica,Other,Green,1,2.0,2.0,7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,0.17,80.42
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.33,7.33,6.83,7.5,7.0,7.17,10.0,10.0,0.11,80.33
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.33,7.33,7.0,7.17,7.17,7.17,10.0,10.0,0.11,80.17
+Nicaragua,2013,honor dela fuente,Arabica,,Green,1,2.26796,2.26796,7.25,7.17,6.92,7.25,7.17,7.25,10.0,10.0,0.1,80.08
+Mexico,2013,calixto guillen vazquez,Arabica,Bourbon,Green,400,1.0,400.0,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10.0,0.12,79.92
+Thailand,2013,doi tung development project,Arabica,,Green,1,1.0,1.0,7.25,7.08,6.92,7.5,7.08,6.92,10.0,10.0,0.12,79.75
+Peru,2013,dane loraas,Arabica,,Green,320,2.26796,725.7472,7.0,7.08,7.0,7.25,7.5,7.42,9.33,10.0,0.12,79.75
+Costa Rica,2013,the coffee source inc.,Arabica,Catuai,Bluish-Green,275,2.0,550.0,7.58,7.5,7.67,7.75,7.67,7.58,8.0,10.0,0.1,79.75
+Mexico,2013,fredy gordillo reyes,Arabica,Typica,Green,310,1.0,310.0,7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,0.12,79.75
+Mexico,2013,leonides de la cruz lopez,Arabica,Bourbon,Green,275,1.0,275.0,7.58,7.08,6.92,7.58,7.5,6.92,10.0,10.0,0.13,79.75
+Mexico,2013,calixto guillen vazquez,Arabica,Bourbon,Green,380,1.0,380.0,7.25,7.08,7.0,7.17,7.17,7.08,10.0,10.0,0.12,79.75
+Thailand,2013,doi tung development project,Arabica,,Blue-Green,1,1.0,1.0,6.92,7.17,6.83,7.42,7.17,7.08,10.0,10.0,0.12,79.67
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.5,7.0,6.83,7.08,7.08,7.17,10.0,10.0,0.11,79.67
+Mexico,2013,fredy gordillo reyes,Arabica,Typica,Green,310,1.0,310.0,7.42,7.25,6.83,7.58,7.17,6.58,10.0,10.0,0.12,79.67
+Colombia,2013,exportadora de cafe condor s.a,Arabica,Caturra,Green,250,70.0,17500.0,7.83,7.5,7.42,7.42,7.67,7.5,10.0,10.0,0.0,79.5
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,0.1,79.42
+Colombia,2013,the coffee source inc.,Arabica,Caturra,Green,250,1.360776,340.194,7.42,7.25,6.75,7.25,7.42,7.25,9.33,10.0,0.0,79.33
+United States,2013,german negron,Arabica,Other,Green,18,2.26796,40.82328,7.42,7.08,6.75,7.33,7.33,6.92,10.0,10.0,0.13,79.08
+Mexico,2013,alfredo bojalil,Arabica,Typica,Green,250,1.0,250.0,7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,0.12,78.92
+United States,2013,eileen koyanagi,Arabica,,Green,11,0.907184,9.979023999999999,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,0.12,78.75
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.33,7.08,6.33,7.25,7.0,7.0,10.0,10.0,0.12,78.75
+China,2013,adam ciruli ye,Arabica,Typica,Green,1,2.0,2.0,7.0,6.92,6.83,7.17,7.17,7.17,10.0,9.33,0.0,78.67
+China,2013,samuel eli gurel,Arabica,Typica,Green,16,2.0,32.0,7.33,7.17,6.92,7.08,7.33,7.0,9.33,9.33,0.1,78.0
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.0,6.83,6.83,7.17,6.67,6.83,10.0,10.0,0.11,78.0
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.0,6.83,6.67,7.17,6.83,6.83,10.0,10.0,0.11,77.83
+United States,2013,kona pacific farmers cooperative,Arabica,,Green,5,45.3592,226.796,7.58,7.67,7.58,7.67,7.42,7.42,9.33,6.0,0.12,77.58
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,1.0,250.0,7.08,6.92,6.33,7.0,6.92,7.0,10.0,10.0,0.11,77.42
+Haiti,2013,myriam kaplan-pasternak,Arabica,Typica,Unknown,1,1.814368,1.814368,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10.0,0.1,77.25
+United States,2013,eileen koyanagi,Arabica,,Green,9,0.907184,8.164656,7.08,6.92,6.83,6.67,7.58,7.42,8.67,10.0,0.12,77.25
+United States,2013,eileen koyanagi,Arabica,,Bluish-Green,6,45.3592,272.15520000000004,7.5,7.33,7.33,7.58,7.67,7.25,8.0,8.0,0.0,76.17
+Mexico,2013,nestor mendez gomez,Arabica,Typica,Green,275,1.0,275.0,7.08,7.0,6.83,7.5,7.33,6.83,8.0,10.0,0.12,74.67
+Guatemala,2013,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,6.5,6.33,6.5,7.5,7.33,6.83,8.67,8.67,0.11,74.33
+Colombia,2013,honor dela fuente,Arabica,,Bluish-Green,1,2.26796,2.26796,8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,0.0,72.83
+Uganda,2013,ankole coffee producers coop,Robusta,,Green,300,60.0,18000.0,7.83,8.08,7.75,7.92,8.25,7.92,10.0,8.0,0.12,83.75
+Uganda,2013,ugacof,Robusta,,Green,320,60.0,19200.0,8.0,7.92,7.92,7.75,7.83,7.75,10.0,7.75,0.12,83.0
+Uganda,2013,katuka development trust ltd,Robusta,,Green,1,60.0,60.0,8.33,7.83,7.83,7.75,8.25,7.75,10.0,7.58,0.12,83.0
+Uganda,2013,kasozi coffee farmers association,Robusta,,Green,1,60.0,60.0,8.0,7.75,7.75,7.58,7.67,7.5,10.0,7.58,0.11,81.5
+India,2013,andrew hetzel,Robusta,,Blue-Green,140,2.0,280.0,7.5,7.5,7.25,7.83,7.67,7.83,10.0,7.83,0.13,81.25
+Uganda,2013,kawacom uganda ltd,Robusta,,Green,1,60.0,60.0,7.33,7.58,7.5,7.75,7.75,7.67,10.0,7.75,0.12,80.92
+Uganda,2013,nitubaasa ltd,Robusta,,Green,20,60.0,1200.0,7.83,7.58,7.33,7.67,7.5,7.5,10.0,7.75,0.12,80.58
+Uganda,2013,mannya coffee project,Robusta,,Green,6,60.0,360.0,7.75,7.42,7.33,7.58,7.67,7.58,10.0,7.67,0.12,80.5
+India,2013,andrew hetzel,Robusta,,Green,250,2.0,500.0,7.58,7.42,7.42,7.83,7.42,7.5,10.0,7.42,0.0,80.17
+India,2013,cafe politico,Robusta,,Green,1,2.26796,2.26796,7.42,6.83,6.75,7.17,7.25,7.0,9.33,7.08,0.1,75.08
+Vietnam,2013,cafe politico,Robusta,,,1,2.26796,2.26796,6.75,6.67,6.5,6.83,6.92,6.83,9.33,6.67,0.12,73.75
+Ethiopia,2014,metad plc,Arabica,,Green,300,60.0,18000.0,8.67,8.83,8.67,8.75,8.5,8.42,10.0,10.0,0.12,90.58
+Ethiopia,2014,metad plc,Arabica,Other,Green,300,60.0,18000.0,8.75,8.67,8.5,8.58,8.42,8.42,10.0,10.0,0.12,89.92
+Ethiopia,2014,yidnekachew dabessa,Arabica,,Green,320,60.0,19200.0,8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,0.11,89.0
+Ethiopia,2014,metad plc,Arabica,Other,Green,300,60.0,18000.0,8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,0.12,88.83
+Ethiopia,2014,diamond enterprise plc,Arabica,Other,Green,50,60.0,3000.0,8.08,8.58,8.5,8.5,7.67,8.42,10.0,10.0,0.1,88.25
+Ethiopia,2014,mohammed lalo,Arabica,,Unknown,300,60.0,18000.0,8.17,8.67,8.25,8.5,7.75,8.17,10.0,10.0,0.1,88.08
+United States,2014,cqi q coffee sample representative,Arabica,Other,Unknown,10,1.0,10.0,8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,0.0,87.92
+United States,2014,cqi q coffee sample representative,Arabica,Other,Unknown,10,1.0,10.0,8.08,8.67,8.33,8.42,8.0,8.08,10.0,10.0,0.0,87.92
+United States,2014,cqi q coffee sample representative,Arabica,Other,Unknown,10,1.0,10.0,8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,0.0,87.58
+Ethiopia,2014,essencecoffee,Arabica,Ethiopian Yirgacheffe,Unknown,250,60.0,15000.0,8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,0.0,87.25
+United States,2014,cqi q coffee sample representative,Arabica,Other,,10,1.0,10.0,8.0,8.25,8.08,8.5,8.25,8.0,10.0,10.0,0.0,87.25
+Costa Rica,2014,the coffee source inc.,Arabica,Caturra,Green,250,1.360776,340.194,8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,0.11,87.17
+United States,2014,cqi q coffee sample representative,Arabica,Other,Unknown,10,1.0,10.0,8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,0.0,87.08
+Ethiopia,2014,hider abamecha,Arabica,,Green,320,60.0,19200.0,8.0,8.08,7.92,8.0,8.08,8.08,10.0,10.0,0.1,86.25
+United States,2014,cqi q coffee sample representative,Arabica,Other,Unknown,10,1.0,10.0,7.67,8.17,8.0,8.0,8.17,8.08,10.0,10.0,0.0,86.17
+Kenya,2014,jungle estate,Arabica,SL28,Bluish-Green,12,60.0,720.0,8.08,8.08,8.0,8.0,7.83,8.08,10.0,10.0,0.11,86.08
+Uganda,2014,great lakes coffee uganda,Arabica,,Unknown,1,60.0,60.0,8.08,8.08,7.83,7.92,8.08,7.92,10.0,10.0,0.0,86.0
+Ethiopia,2014,ibrahim hussien speciality coffee producer &export,Arabica,,Green,320,60.0,19200.0,7.83,8.08,7.92,8.08,8.0,7.92,10.0,10.0,0.1,85.83
+Panama,2014,essencecoffee,Arabica,Caturra,Unknown,100,60.0,6000.0,8.0,7.75,7.83,7.83,7.67,8.58,10.0,10.0,0.09,85.5
+Kenya,2014,essencecoffee,Arabica,SL28,Green,16,60.0,960.0,7.92,7.92,7.83,8.08,7.83,7.92,10.0,10.0,0.1,85.5
+Guatemala,2014,essencecoffee,Arabica,Pacamara,Green,36,30.0,1080.0,7.83,7.75,7.83,7.67,7.83,8.58,10.0,10.0,0.11,85.33
+Costa Rica,2014,the coffee source inc.,Arabica,Caturra,Bluish-Green,250,1.360776,340.194,7.92,8.08,8.0,7.92,8.0,8.08,10.0,9.33,0.0,85.33
+Costa Rica,2014,the coffee source inc.,Arabica,Caturra,Bluish-Green,250,1.360776,340.194,8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,0.1,85.33
+Ethiopia,2014,steven kil,Arabica,,Green,100,60.0,6000.0,8.42,8.0,7.42,8.0,7.92,7.92,9.33,10.0,0.1,85.08
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Bluish-Green,12,45.3592,544.3104000000001,7.58,7.83,7.83,7.92,7.83,8.17,10.0,10.0,0.11,85.08
+"Tanzania, United Republic Of",2014,taylor winch (t) ltd,Arabica,Other,Green,134,60.0,8040.0,8.0,7.83,7.83,7.92,7.75,7.75,10.0,10.0,0.12,84.92
+Kenya,2014,lydiah mwangi,Arabica,SL34,Green,150,60.0,9000.0,7.92,7.83,7.58,7.92,7.75,7.83,10.0,10.0,0.13,84.75
+Honduras,2014,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,0.11,84.75
+Ethiopia,2014,essencecoffee,Arabica,Ethiopian Yirgacheffe,Unknown,250,30.0,7500.0,8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,0.1,84.67
+Costa Rica,2014,essencecoffee,Arabica,Other,Green,20,69.0,1380.0,7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,0.08,84.67
+Costa Rica,2014,eric thormaehlen,Arabica,Catuai,Green,275,1.0,275.0,8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,0.11,84.67
+Guatemala,2014,juan luis alvarado romero,Arabica,Pacas,Green,250,69.0,17250.0,7.75,7.83,7.67,7.92,7.75,7.83,10.0,10.0,0.11,84.58
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,8.0,7.92,7.67,7.58,7.58,7.67,10.0,10.0,0.09,84.58
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,0.0,84.42
+"Tanzania, United Republic Of",2014,tembo coffee company ltd,Arabica,Other,Green,10,60.0,600.0,7.83,7.67,7.75,7.83,7.67,7.67,10.0,10.0,0.12,84.25
+"Tanzania, United Republic Of",2014,taylor winch (t) ltd,Arabica,Other,Green,65,60.0,3900.0,7.83,7.75,7.75,7.75,7.67,7.75,10.0,10.0,0.12,84.25
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.83,7.5,7.92,7.58,7.75,10.0,10.0,0.1,84.25
+Costa Rica,2014,"ceca, s.a.",Arabica,Caturra,Blue-Green,320,69.0,22080.0,7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,0.0,84.17
+Ethiopia,2014,asefa dukamo keroma,Arabica,Gesha,Green,320,60.0,19200.0,7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,0.1,84.17
+"Tanzania, United Republic Of",2014,selian coffee estate,Arabica,Other,Green,10,60.0,600.0,7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,0.13,84.17
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Unknown,200,70.0,14000.0,7.92,7.75,7.67,7.75,7.67,7.67,10.0,10.0,0.0,84.08
+Guatemala,2014,lusso lab,Arabica,Bourbon,Bluish-Green,1,2.0,2.0,7.58,7.75,7.67,8.0,7.75,7.67,10.0,10.0,0.1,84.08
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.92,7.67,7.42,7.92,7.75,7.83,10.0,10.0,0.1,84.0
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.75,7.83,7.5,7.83,7.58,7.67,10.0,10.0,0.1,84.0
+Colombia,2014,olam agro colombia,Arabica,,Green,250,1.0,250.0,7.67,7.75,7.67,7.67,7.67,7.75,10.0,10.0,0.12,84.0
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Green,138,70.0,9660.0,7.67,7.67,7.5,7.5,7.67,7.67,10.0,10.0,0.12,84.0
+Colombia,2014,federacion nacional de cafeteros,Arabica,,,275,2.0,550.0,7.83,7.75,7.58,7.58,7.75,7.75,10.0,10.0,0.0,83.92
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,0.0,83.92
+Ethiopia,2014,yasmin cofffee plantation plc,Arabica,,Green,320,60.0,19200.0,7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,0.12,83.83
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,0.1,83.83
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Green,100,70.0,7000.0,7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,0.0,83.75
+Colombia,2014,olam agro colombia,Arabica,Other,Green,250,70.0,17500.0,7.67,7.42,7.42,7.42,8.0,8.33,10.0,10.0,0.0,83.75
+Thailand,2014,doi tung development project,Arabica,,Bluish-Green,1,1.0,1.0,7.5,7.75,7.58,7.83,7.67,7.58,10.0,10.0,0.12,83.67
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,275,69.0,18975.0,8.0,7.5,7.33,8.0,8.0,8.0,9.33,10.0,0.1,83.67
+Ethiopia,2014,essencecoffee,Arabica,Other,Unknown,250,60.0,15000.0,7.75,7.67,7.58,7.67,7.5,7.67,10.0,10.0,0.0,83.58
+Ethiopia,2014,debesa agro industry plc,Arabica,,Unknown,320,60.0,19200.0,7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,0.1,83.5
+Colombia,2014,federacion nacional de cafeteros,Arabica,,Unknown,275,2.0,550.0,7.67,7.42,7.67,7.83,7.58,7.67,10.0,10.0,0.0,83.5
+Colombia,2014,exportadora de cafe condor s.a,Arabica,Caturra,Green,275,70.0,19250.0,8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,0.11,83.5
+Brazil,2014,bourbon specialty coffees,Arabica,Yellow Bourbon,Green,300,60.0,18000.0,7.33,7.83,7.75,7.5,7.42,7.83,10.0,10.0,0.12,83.42
+"Tanzania, United Republic Of",2014,ngila estate ltd,Arabica,Bourbon,Green,39,60.0,2340.0,7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,0.13,83.42
+Guatemala,2014,juan luis alvarado romero,Arabica,Caturra,Green,250,69.0,17250.0,7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,0.1,83.42
+"Tanzania, United Republic Of",2014,afca,Arabica,Other,Green,10,60.0,600.0,7.75,7.58,7.67,7.58,7.58,7.58,10.0,10.0,0.12,83.33
+Costa Rica,2014,the coffee source inc.,Arabica,Caturra,Green,250,1.360776,340.194,7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,0.12,83.33
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Bluish-Green,12,45.3592,544.3104000000001,7.83,7.58,7.83,7.67,7.92,8.0,9.33,9.33,0.11,83.33
+Guatemala,2014,juan luis alvarado romero,Arabica,Caturra,Green,26,69.0,1794.0,7.5,7.67,7.58,7.67,7.67,7.5,10.0,10.0,0.1,83.25
+Kenya,2014,taylor winch (coffee) ltd.,Arabica,SL28,Bluish-Green,300,2.0,600.0,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,0.1,83.17
+Thailand,2014,doi tung development project,Arabica,,Bluish-Green,1,1.0,1.0,7.67,7.58,7.58,7.75,7.42,7.67,10.0,10.0,0.12,83.17
+"Tanzania, United Republic Of",2014,tutunze kahawa ltd,Arabica,Other,Bluish-Green,180,60.0,10800.0,7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,0.13,83.17
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Unknown,232,70.0,16240.0,7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,0.0,83.17
+Uganda,2014,kabum trading company,Arabica,SL14,Bluish-Green,84,60.0,5040.0,8.0,7.67,7.5,7.42,7.33,7.58,10.0,10.0,0.1,83.17
+Colombia,2014,cafe politico,Arabica,,Green,1,1.814368,1.814368,7.58,7.75,7.5,7.58,7.58,7.58,10.0,10.0,0.11,83.17
+Guatemala,2014,juan luis alvarado romero,Arabica,Catuai,Green,200,69.0,13800.0,7.33,7.83,7.17,8.17,7.33,7.67,10.0,10.0,0.09,83.17
+"Tanzania, United Republic Of",2014,balam hinyula,Arabica,Bourbon,Green,300,1.0,300.0,7.58,7.5,7.58,7.75,7.58,7.58,10.0,10.0,0.12,83.17
+Costa Rica,2014,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.83,7.33,7.5,7.67,7.58,7.67,10.0,10.0,0.1,83.08
+Vietnam,2014,"sunvirtue co., ltd.",Arabica,Caturra,Green,2,2.0,4.0,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10.0,0.0,83.0
+Brazil,2014,irene alves santos,Arabica,Catuai,Green,305,2.0,610.0,7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,0.0,83.0
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,26,69.0,1794.0,7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,0.1,83.0
+Philippines,2014,zarah zamora perez,Arabica,Other,Bluish-Green,4,2.0,8.0,8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,0.0,82.92
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,0.1,82.92
+Guatemala,2014,juan luis alvarado romero,Arabica,Caturra,Green,26,69.0,1794.0,7.67,7.83,7.42,7.5,7.33,7.5,10.0,10.0,0.1,82.92
+Vietnam,2014,"sunvirtue co., ltd.",Arabica,Other,Green,3,2.0,6.0,7.25,7.58,7.5,7.42,7.75,7.42,10.0,10.0,0.11,82.83
+Colombia,2014,essencecoffee,Arabica,Other,Unknown,100,24.0,2400.0,7.83,7.67,7.5,7.58,7.5,7.67,10.0,10.0,0.0,82.83
+United States,2014,joshua marsceau,Arabica,Other,Unknown,300,60.0,18000.0,7.42,7.58,7.25,7.5,7.75,7.75,10.0,10.0,0.0,82.83
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.67,7.67,7.75,7.67,7.42,7.17,10.0,10.0,0.1,82.83
+Colombia,2014,racafe & cia s.c.a,Arabica,Caturra,Blue-Green,250,70.0,17500.0,7.5,7.58,7.58,7.75,7.33,7.5,10.0,10.0,0.0,82.75
+Malawi,2014,afca,Arabica,Gesha,Bluish-Green,29,60.0,1740.0,7.75,7.58,7.42,7.5,7.33,7.5,10.0,10.0,0.12,82.75
+Guatemala,2014,juan luis alvarado romero,Arabica,Pacas,Green,250,69.0,17250.0,7.75,7.42,7.25,7.75,7.5,7.67,10.0,10.0,0.13,82.75
+Colombia,2014,coffee export,Arabica,Typica,Green,275,1.0,275.0,7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,0.12,82.75
+Brazil,2014,bourbon specialty coffees,Arabica,Catuai,Unknown,300,60.0,18000.0,7.33,7.5,7.58,7.58,7.67,7.5,10.0,10.0,0.12,82.67
+"Tanzania, United Republic Of",2014,nitin coffee estate,Arabica,Other,Green,93,60.0,5580.0,7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,0.12,82.67
+"Tanzania, United Republic Of",2014,taylor winch (t) ltd,Arabica,Bourbon,Green,77,60.0,4620.0,7.58,7.5,7.5,7.58,7.33,7.58,10.0,10.0,0.12,82.67
+Mexico,2014,productos y servicios chilindron s.a. de c.v.,Arabica,Typica,Green,11,1.0,11.0,7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,0.11,82.67
+Thailand,2014,doi tung development project,Arabica,,Green,1,1.0,1.0,7.75,7.33,7.42,7.67,7.42,7.5,10.0,10.0,0.12,82.58
+"Tanzania, United Republic Of",2014,tembo coffee company ltd,Arabica,Other,Unknown,10,60.0,600.0,7.75,7.42,7.33,7.5,7.58,7.5,10.0,10.0,0.12,82.58
+Mexico,2014,dane loraas,Arabica,,Green,320,2.26796,725.7472,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10.0,0.0,82.58
+Thailand,2014,doi tung development project,Arabica,,Green,1,1.0,1.0,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10.0,0.12,82.5
+"Tanzania, United Republic Of",2014,shah plantations,Arabica,Other,Green,37,60.0,2220.0,7.67,7.42,7.33,7.58,7.5,7.5,10.0,10.0,0.12,82.5
+"Tanzania, United Republic Of",2014,amkeni gourmet coffee group,Arabica,Other,Bluish-Green,5,60.0,300.0,7.75,7.0,7.42,7.58,7.58,7.58,10.0,10.0,0.12,82.5
+Mexico,2014,productos y servicios chilindron s.a. de c.v.,Arabica,Typica,Green,10,1.0,10.0,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,0.11,82.42
+Malawi,2014,afca,Arabica,Gesha,Green,10,60.0,600.0,7.33,7.58,7.42,7.58,7.33,7.5,10.0,10.0,0.12,82.33
+Guatemala,2014,juan luis alvarado romero,Arabica,Pacas,Green,250,69.0,17250.0,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10.0,0.12,82.33
+Mexico,2014,dane loraas,Arabica,,Green,320,2.26796,725.7472,7.33,7.58,7.42,7.5,7.5,7.5,10.0,10.0,0.11,82.33
+Malawi,2014,afca,Arabica,Gesha,Blue-Green,10,60.0,600.0,7.58,7.42,7.33,7.42,7.58,7.5,10.0,10.0,0.13,82.25
+Thailand,2014,doi tung development project,Arabica,,Bluish-Green,1,1.0,1.0,7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,0.12,82.17
+Guatemala,2014,essencecoffee,Arabica,Bourbon,Blue-Green,250,69.0,17250.0,7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,0.09,82.17
+Brazil,2014,bourbon specialty coffees,Arabica,Mundo Novo,Green,300,60.0,18000.0,7.58,7.5,7.42,7.25,7.5,7.42,10.0,10.0,0.12,82.17
+"Tanzania, United Republic Of",2014,tembo coffee company ltd,Arabica,Other,Green,10,60.0,600.0,7.75,7.42,7.42,7.58,7.33,7.42,10.0,10.0,0.12,82.17
+"Tanzania, United Republic Of",2014,balam hinyula,Arabica,Bourbon,Green,300,2.0,600.0,7.42,7.33,7.42,7.42,7.5,7.58,10.0,10.0,0.12,82.08
+"Tanzania, United Republic Of",2014,ngorogoro convenant estate,Arabica,Other,Green,1,60.0,60.0,7.42,7.5,7.5,7.33,7.33,7.5,10.0,10.0,0.12,82.08
+"Tanzania, United Republic Of",2014,finca estate,Arabica,Other,Green,1,60.0,60.0,7.42,7.42,7.33,7.58,7.33,7.42,10.0,10.0,0.12,82.0
+Malawi,2014,afca,Arabica,Gesha,Bluish-Green,16,60.0,960.0,7.5,7.42,7.33,7.58,7.33,7.5,10.0,10.0,0.13,82.0
+Honduras,2014,beneficio santa rosa,Arabica,Caturra,Green,275,69.0,18975.0,7.33,7.33,7.33,7.5,7.5,7.83,10.0,10.0,0.11,82.0
+"Tanzania, United Republic Of",2014,mcomafa co ltd,Arabica,Other,Green,114,60.0,6840.0,7.33,7.33,7.33,7.42,7.5,7.58,10.0,10.0,0.12,81.92
+Zambia,2014,lusso lab,Arabica,SL28,Unknown,13,2.0,26.0,7.67,7.08,7.42,7.33,7.75,7.42,10.0,10.0,0.0,81.92
+Indonesia,2014,essencecoffee,Arabica,Typica,,300,10.0,3000.0,7.42,7.42,7.42,7.33,7.42,7.42,10.0,10.0,0.11,81.83
+Malawi,2014,afca,Arabica,Gesha,Green,24,60.0,1440.0,7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,0.13,81.83
+Honduras,2014,,Arabica,Caturra,Green,275,1.0,275.0,7.5,7.5,7.33,7.33,7.33,7.33,10.0,10.0,0.1,81.83
+Mexico,2014,kurt kappeli,Arabica,Typica,Green,280,2.0,560.0,7.42,7.42,7.25,7.5,7.33,7.42,10.0,10.0,0.11,81.83
+Vietnam,2014,"sunvirtue co., ltd.",Arabica,Caturra,Bluish-Green,1,2.0,2.0,7.0,7.08,7.33,7.5,7.5,7.33,10.0,10.0,0.12,81.75
+"Tanzania, United Republic Of",2014,ngorogoro convenant estate,Arabica,Other,Bluish-Green,1,60.0,60.0,7.42,7.42,7.42,7.42,7.33,7.33,10.0,10.0,0.12,81.75
+"Tanzania, United Republic Of",2014,dae ltd company,Arabica,Other,Green,20,60.0,1200.0,7.42,7.33,7.25,7.42,7.5,7.42,10.0,10.0,0.12,81.67
+Honduras,2014,,Arabica,Caturra,Green,275,1.0,275.0,7.5,7.33,7.5,7.5,7.17,7.17,10.0,10.0,0.1,81.67
+Mexico,2014,dane loraas,Arabica,,Green,320,2.26796,725.7472,7.42,7.42,7.67,8.0,7.58,7.5,9.33,10.0,0.0,81.67
+"Tanzania, United Republic Of",2014,acacia hills ltd,Arabica,Other,Green,100,60.0,6000.0,7.42,7.42,7.33,7.42,7.42,7.33,10.0,10.0,0.12,81.58
+Malawi,2014,afca,Arabica,Gesha,Green,10,60.0,600.0,7.42,7.42,7.17,7.58,7.33,7.33,10.0,10.0,0.13,81.58
+Costa Rica,2014,santa laura exportadora de cafe s.l.e.c. s.a.,Arabica,Caturra,Green,250,1.0,250.0,7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,0.12,81.5
+Malawi,2014,afca,Arabica,Gesha,Green,15,60.0,900.0,7.67,7.42,6.92,7.5,7.5,7.17,10.0,10.0,0.12,81.5
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,250,69.0,17250.0,7.5,7.42,7.17,7.58,7.25,7.42,10.0,10.0,0.12,81.5
+Malawi,2014,afca,Arabica,Gesha,Bluish-Green,12,60.0,720.0,7.58,7.17,7.33,7.42,7.08,7.42,10.0,10.0,0.12,81.42
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,0.1,81.42
+Mexico,2014,kurt kappeli,Arabica,Typica,Green,280,2.0,560.0,7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,0.0,81.42
+Philippines,2014,victoria,Arabica,Other,Green,2,2.0,4.0,7.08,7.33,7.42,7.33,7.33,7.5,10.0,10.0,0.14,81.33
+Malawi,2014,afca,Arabica,Gesha,Green,31,60.0,1860.0,7.75,7.33,7.08,7.33,7.33,7.25,10.0,10.0,0.13,81.33
+Honduras,2014,mayra yessenia torres,Arabica,Catuai,Green,275,1.0,275.0,7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,0.12,81.33
+Guatemala,2014,essencecoffee,Arabica,Pacamara,Bluish-Green,36,24.94756,898.11216,7.33,7.42,7.17,7.25,7.42,7.33,10.0,10.0,0.09,81.25
+"Tanzania, United Republic Of",2014,shangrilla estate ltd,Arabica,Other,Green,100,60.0,6000.0,7.33,7.17,7.17,7.5,7.25,7.42,10.0,10.0,0.13,81.25
+Philippines,2014,victoria,Arabica,Typica,,2,2.0,4.0,7.25,7.25,7.25,7.08,7.58,7.5,10.0,10.0,0.0,81.17
+"Tanzania, United Republic Of",2014,taylor winch (t) ltd,Arabica,Bourbon,Bluish-Green,320,60.0,19200.0,7.58,7.17,7.17,7.33,7.33,7.25,10.0,10.0,0.12,81.17
+Malawi,2014,afca,Arabica,Caturra,Green,300,60.0,18000.0,7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,0.12,81.17
+Costa Rica,2014,eric thormaehlen,Arabica,Catuai,Green,250,1.0,250.0,7.33,7.08,7.33,7.25,7.33,7.58,10.0,10.0,0.11,81.17
+United States,2014,wali ali,Arabica,Pache Comun,Unknown,1,2.26796,2.26796,7.42,7.17,7.33,7.42,7.25,7.33,10.0,10.0,0.0,81.08
+"Tanzania, United Republic Of",2014,taylor winch (t) ltd,Arabica,Other,Green,54,60.0,3240.0,7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,0.13,81.08
+Costa Rica,2014,the coffee source inc.,Arabica,Caturra,Green,250,1.0,250.0,7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,0.13,81.08
+Honduras,2014,mayra yessenia torres,Arabica,Caturra,Green,275,69.0,18975.0,7.42,7.25,7.25,7.33,7.25,7.17,10.0,10.0,0.12,81.0
+Brazil,2014,bourbon specialty coffees,Arabica,Mundo Novo,Green,300,60.0,18000.0,7.67,7.75,7.83,7.75,7.83,7.75,10.0,10.0,0.12,81.0
+"Tanzania, United Republic Of",2014,mlimani ngarashi,Arabica,Other,Green,1,60.0,60.0,7.33,7.33,7.08,7.42,7.17,7.33,10.0,10.0,0.12,81.0
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Bluish-Green,7,45.3592,317.5144,7.42,7.08,7.17,7.17,7.58,7.25,10.0,10.0,0.1,80.92
+"Tanzania, United Republic Of",2014,karatu estate,Arabica,Other,Green,250,60.0,15000.0,7.33,7.17,7.17,7.25,7.42,7.33,10.0,10.0,0.12,80.92
+Guatemala,2014,juan luis alvarado romero,Arabica,Pacas,Green,250,69.0,17250.0,7.58,7.42,6.92,7.5,7.25,7.17,10.0,10.0,0.12,80.92
+Panama,2014,essencecoffee,Arabica,Caturra,Green,100,60.0,6000.0,7.25,7.33,7.17,7.33,7.33,7.17,10.0,10.0,0.11,80.75
+Costa Rica,2014,the coffee source inc.,Arabica,Caturra,Green,250,1.360776,340.194,7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,0.11,80.75
+Malawi,2014,afca,Arabica,Caturra,Bluish-Green,100,60.0,6000.0,7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,0.12,80.67
+Mexico,2014,cafe de don balbino s.c. de r.l. de c.v.,Arabica,Typica,Green,20,1.0,20.0,7.25,7.17,7.17,7.25,7.17,7.42,10.0,10.0,0.12,80.67
+"Tanzania, United Republic Of",2014,burka coffee estate,Arabica,Other,Bluish-Green,10,60.0,600.0,7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,0.12,80.58
+Honduras,2014,beneficio santa rosa,Arabica,Caturra,Green,275,69.0,18975.0,7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,0.11,80.58
+Guatemala,2014,juan luis alvarado romero,Arabica,Bourbon,Green,275,69.0,18975.0,7.17,7.42,6.83,7.5,7.17,7.25,10.0,10.0,0.11,80.58
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,275,69.0,18975.0,7.5,7.17,6.83,7.5,7.17,7.17,10.0,10.0,0.11,80.5
+"Tanzania, United Republic Of",2014,kongoni estate,Arabica,Other,Bluish-Green,1,60.0,60.0,7.25,7.17,7.25,7.25,7.25,7.08,10.0,10.0,0.12,80.33
+Myanmar,2014,u htun htun,Arabica,Catuai,Green,1,2.0,2.0,7.42,7.0,7.08,7.0,7.17,7.33,10.0,10.0,0.0,80.25
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Green,2,45.3592,90.7184,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,0.12,80.25
+Mexico,2014,kurt kappeli,Arabica,Typica,Green,280,2.0,560.0,7.58,7.75,7.42,7.5,7.5,7.5,8.67,10.0,0.0,80.0
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Green,12,100.0,1200.0,7.5,7.0,7.0,6.92,7.33,7.17,10.0,10.0,0.11,79.92
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,275,69.0,18975.0,7.25,7.33,6.83,7.0,7.0,7.17,10.0,10.0,0.1,79.42
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,250,69.0,17250.0,7.33,7.17,6.58,7.42,7.08,6.83,10.0,10.0,0.12,79.0
+Honduras,2014,cafes finos de exportacion s de r.l.,Arabica,Pacas,Green,275,2.0,550.0,7.0,7.0,7.0,7.0,7.0,7.0,10.0,10.0,0.11,79.0
+Nicaragua,2014,"exportadora atlantic, s.a.",Arabica,,Green,275,2.0,550.0,6.83,7.08,6.92,6.75,7.25,7.08,10.0,10.0,0.11,78.58
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,250,69.0,17250.0,7.33,7.17,6.92,7.58,7.25,7.17,8.67,10.0,0.12,78.58
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Bluish-Green,5,45.3592,226.796,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8.67,0.1,78.33
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,275,69.0,18975.0,7.17,6.5,6.67,7.0,7.17,7.17,10.0,10.0,0.1,78.33
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Green,18,45.3592,816.4656,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,0.11,78.25
+Honduras,2014,cafes finos de exportacion s de r.l.,Arabica,Pacas,Green,275,2.0,550.0,6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,0.11,78.0
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Green,5,45.3592,226.796,7.58,7.33,7.5,7.42,7.5,7.33,8.0,9.33,0.12,78.0
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,275,69.0,18975.0,7.42,7.25,6.83,7.33,7.0,6.92,9.33,9.33,0.1,78.0
+Costa Rica,2014,santa laura exportadora de cafe s.l.e.c. s.a.,Arabica,Caturra,Green,250,1.0,250.0,7.5,7.25,7.42,7.0,7.08,6.83,8.67,10.0,0.12,77.92
+Brazil,2014,cafe politico,Arabica,,Unknown,1,2.26796,2.26796,7.0,6.75,6.67,6.83,7.08,6.83,10.0,10.0,0.11,77.83
+Guatemala,2014,juan luis alvarado romero,Arabica,Other,Green,275,69.0,18975.0,7.33,7.0,6.83,7.17,7.17,7.17,9.33,9.33,0.1,77.33
+Peru,2014,andrew bowman,Arabica,Caturra,Green,275,2.0,550.0,7.42,7.75,7.42,7.67,7.92,7.83,8.67,9.33,0.0,77.0
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Green,2,45.3592,90.7184,7.25,7.08,6.83,7.17,7.33,6.83,8.67,9.33,0.0,76.25
+Honduras,2014,cafes finos de exportacion s de r.l.,Arabica,Pacas,Green,275,2.0,550.0,6.83,6.83,6.67,6.83,7.0,6.83,9.33,10.0,0.11,76.0
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Blue-Green,3,45.3592,136.07760000000002,7.5,7.25,7.0,7.25,7.42,7.33,8.0,6.67,0.0,74.42
+Honduras,2014,cafes finos de exportacion s de r.l.,Arabica,Pacas,Green,275,2.0,550.0,7.0,7.17,6.83,7.17,7.0,7.17,8.0,8.0,0.11,73.42
+Mexico,2014,kurt kappeli,Arabica,Typica,Unknown,280,69.0,19320.0,7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,0.0,72.92
+United States,2014,eileen koyanagi,Arabica,Hawaiian Kona,Green,11,45.3592,498.95120000000003,6.92,6.92,6.92,7.5,7.58,7.17,6.67,9.33,0.11,72.58
+Costa Rica,2014,santa laura exportadora de cafe s.l.e.c. s.a.,Arabica,Caturra,Green,250,1.0,250.0,6.33,6.5,6.33,6.83,6.33,6.5,10.0,10.0,0.11,71.75
+Mexico,2014,kurt kappeli,Arabica,Typica,Green,280,2.0,560.0,6.92,7.0,6.83,6.92,7.42,6.92,6.0,10.0,0.12,70.75
+Honduras,2014,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,6.67,6.5,6.17,6.67,6.83,6.17,8.0,8.0,0.1,69.33
+Honduras,2014,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,0.1,69.17
+Honduras,2014,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,0.1,69.17
+India,2014,andrew hetzel,Robusta,,Green,320,2.0,640.0,7.67,7.75,7.83,7.83,7.92,7.75,10.0,8.0,0.0,82.58
+Uganda,2014,ugacof,Robusta,,Green,320,60.0,19200.0,7.67,7.83,7.83,7.83,7.92,7.75,10.0,7.75,0.12,82.42
+Uganda,2014,ugacof,Robusta,,Green,320,60.0,19200.0,7.58,7.92,7.75,7.83,7.5,7.67,10.0,7.67,0.12,81.75
+India,2014,andrew hetzel,Robusta,,Green,100,2.0,200.0,7.58,7.58,7.67,7.58,7.67,7.67,10.0,7.5,0.0,81.58
+Uganda,2014,ankole coffee producers coop,Robusta,,Green,320,60.0,19200.0,8.0,7.67,7.75,7.5,7.67,7.58,10.0,7.58,0.12,81.5
+India,2014,andrew hetzel,Robusta,,Bluish-Green,100,2.0,200.0,7.67,7.67,7.5,7.33,7.58,7.5,10.0,7.42,0.0,80.17
+United States,2014,james moore,Robusta,,Unknown,1,1.0,1.0,7.33,7.33,7.17,7.42,7.5,7.17,9.33,7.42,0.0,77.17
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,0.1,87.25
+Ethiopia,2015,assefa belay coffee producer,Arabica,Other,Green,320,60.0,19200.0,7.83,8.0,7.83,7.92,7.83,8.08,10.0,10.0,0.12,85.5
+Ethiopia,2015,assefa belay coffee producer,Arabica,,Green,320,60.0,19200.0,7.75,7.83,7.83,8.17,7.92,7.83,10.0,10.0,0.1,85.42
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,8.0,8.0,8.0,7.83,7.83,7.75,10.0,10.0,0.1,85.33
+Colombia,2015,exportadora de cafe condor s.a,Arabica,Caturra,Green,275,70.0,19250.0,8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,0.11,85.25
+Colombia,2015,carcafe ltda ci,Arabica,Caturra,Unknown,250,70.0,17500.0,8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,0.0,85.08
+Kenya,2015,simon mahinda,Arabica,,Green,170,60.0,10200.0,8.17,7.83,7.92,7.75,7.67,7.83,10.0,10.0,0.11,85.0
+Colombia,2015,racafe & cia s.c.a,Arabica,Caturra,Green,252,70.0,17640.0,7.92,7.83,7.75,7.83,7.75,8.0,10.0,10.0,0.12,84.92
+Costa Rica,2015,rodrigo soto,Arabica,Catuai,Blue-Green,15,69.0,1035.0,8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,0.1,84.67
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,120,34.0,4080.0,7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,0.1,84.67
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.75,7.92,7.67,7.83,7.75,7.67,10.0,10.0,0.1,84.5
+Colombia,2015,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.75,7.67,8.0,7.67,8.08,7.83,10.0,10.0,0.11,84.33
+Guatemala,2015,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.75,7.92,7.5,8.08,7.58,7.67,10.0,10.0,0.1,84.25
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.83,7.83,7.58,7.75,7.75,7.75,10.0,10.0,0.1,84.25
+Colombia,2015,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,0.11,84.25
+Colombia,2015,racafe & cia s.c.a,Arabica,Caturra,Green,248,70.0,17360.0,7.83,7.67,7.75,7.58,7.92,7.75,10.0,10.0,0.12,84.25
+Colombia,2015,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.42,7.67,7.83,7.75,7.92,7.83,10.0,10.0,0.12,84.25
+Colombia,2015,racafe & cia s.c.a,Arabica,Caturra,Bluish-Green,275,70.0,19250.0,8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,0.0,84.17
+Nicaragua,2015,cooperativa el gorrion r.l,Arabica,Caturra,Bluish-Green,275,2.0,550.0,7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,0.12,84.17
+Guatemala,2015,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.67,7.83,7.58,7.92,7.75,7.67,10.0,10.0,0.12,84.0
+Thailand,2015,sarawut premjit,Arabica,Catimor,Bluish-Green,45,40.0,1800.0,7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,0.1,83.92
+Colombia,2015,federacion nacional de cafeteros,Arabica,,Unknown,275,2.0,550.0,7.92,7.67,7.5,7.83,7.58,7.67,10.0,10.0,0.0,83.92
+Costa Rica,2015,"ceca, s.a.",Arabica,Caturra,Blue-Green,275,69.0,18975.0,7.67,7.67,7.75,7.67,7.5,7.75,10.0,10.0,0.0,83.83
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,0.1,83.75
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,0.1,83.58
+Colombia,2015,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.67,7.75,7.58,7.67,7.75,7.58,10.0,10.0,0.12,83.58
+Costa Rica,2015,"ceca, s.a.",Arabica,Caturra,Blue-Green,245,69.0,16905.0,7.92,7.42,7.5,7.67,7.5,7.67,10.0,10.0,0.0,83.5
+Colombia,2015,racafe & cia s.c.a,Arabica,Caturra,Green,180,70.0,12600.0,7.58,7.58,7.58,7.58,7.75,7.67,10.0,10.0,0.12,83.5
+"Tanzania, United Republic Of",2015,damari absalome,Arabica,Ruiru 11,Green,5,60.0,300.0,7.75,7.67,7.58,7.67,7.67,7.58,10.0,10.0,0.13,83.5
+Indonesia,2015,aulia arif syahri,Arabica,Sumatra,Bluish-Green,200,30.0,6000.0,7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,0.13,83.5
+Uganda,2015,bugisu cooperative union,Arabica,SL14,Green,20,60.0,1200.0,7.58,7.75,7.33,7.75,7.67,7.58,10.0,10.0,0.11,83.42
+Colombia,2015,carcafe ltda ci,Arabica,Caturra,Green,275,70.0,19250.0,7.58,7.67,7.58,7.67,7.58,7.67,10.0,10.0,0.12,83.42
+Colombia,2015,exportadora de cafe condor s.a,Arabica,Caturra,Green,275,70.0,19250.0,7.67,7.75,7.42,7.83,7.83,7.42,10.0,10.0,0.11,83.33
+Costa Rica,2015,rodrigo soto,Arabica,,Unknown,275,69.0,18975.0,7.83,7.5,7.42,7.67,7.5,7.67,10.0,10.0,0.11,83.25
+Uganda,2015,kawacom uganda ltd,Arabica,SL14,Green,150,60.0,9000.0,7.5,7.67,7.67,7.42,7.67,7.67,10.0,10.0,0.12,83.25
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,0.11,83.17
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.67,7.67,7.5,7.67,7.42,7.58,10.0,10.0,0.1,83.17
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,150,69.0,10350.0,7.5,7.75,7.5,7.83,7.58,7.5,10.0,10.0,0.11,83.17
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,100,69.0,6900.0,7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,0.12,83.17
+Brazil,2015,ipanema coffees,Arabica,Yellow Bourbon,Bluish-Green,320,60.0,19200.0,7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,0.11,83.08
+Uganda,2015,ucfa,Arabica,Bourbon,Green,310,60.0,18600.0,7.67,7.58,7.42,7.42,7.83,7.5,10.0,10.0,0.12,83.0
+Uganda,2015,ucfa,Arabica,Bourbon,Green,325,60.0,19500.0,7.67,7.67,7.5,7.58,7.42,7.5,10.0,10.0,0.12,83.0
+Guatemala,2015,juan luis alvarado romero,Arabica,Catuai,Green,275,69.0,18975.0,7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,0.11,83.0
+Guatemala,2015,juan luis alvarado romero,Arabica,Catuai,Green,200,69.0,13800.0,7.75,7.67,7.33,7.75,7.5,7.42,10.0,10.0,0.11,83.0
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,0.11,83.0
+Philippines,2015,renee a. perrine,Arabica,Other,Blue-Green,250,2.0,500.0,7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,0.11,82.92
+Mexico,2015,andrew bowman,Arabica,Bourbon,Bluish-Green,275,2.0,550.0,7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,0.12,82.92
+Brazil,2015,ipanema coffees,Arabica,Yellow Bourbon,Bluish-Green,320,60.0,19200.0,7.67,7.58,7.58,7.5,7.5,7.42,10.0,10.0,0.11,82.83
+Rwanda,2015,samuel muhirwa,Arabica,Bourbon,Bluish-Green,150,60.0,9000.0,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,0.11,82.83
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,80,69.0,5520.0,7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,0.11,82.83
+Brazil,2015,ipanema coffees,Arabica,Yellow Bourbon,Bluish-Green,320,60.0,19200.0,7.5,7.5,7.58,7.5,7.58,7.58,10.0,10.0,0.11,82.75
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.67,7.5,7.33,7.33,7.67,7.67,10.0,10.0,0.1,82.75
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.5,7.67,7.42,7.67,7.5,7.5,10.0,10.0,0.11,82.75
+Colombia,2015,federacion nacional de cafeteros,Arabica,,Green,1,2.0,2.0,7.75,7.5,7.33,7.58,7.33,7.75,10.0,10.0,0.0,82.67
+Indonesia,2015,andry simarmata,Arabica,Typica,Blue-Green,150,2.0,300.0,7.83,7.58,7.42,7.33,7.42,7.5,10.0,10.0,0.13,82.58
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,0.1,82.42
+Costa Rica,2015,"ceca, s.a.",Arabica,Caturra,Bluish-Green,100,69.0,6900.0,7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,0.1,82.33
+Costa Rica,2015,rodrigo soto,Arabica,Catuai,Green,130,69.0,8970.0,7.75,7.33,7.5,7.5,7.33,7.58,10.0,10.0,0.0,82.33
+China,2015,yunnan coffee exchange,Arabica,Catimor,Green,3,60.0,180.0,7.5,7.58,7.42,7.5,7.42,7.42,10.0,10.0,0.12,82.33
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,275,69.0,18975.0,7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,0.1,82.33
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,0.11,82.25
+Honduras,2015,bismarck castro,Arabica,Caturra,Bluish-Green,200,69.0,13800.0,7.5,7.5,7.17,7.42,7.5,7.5,10.0,10.0,0.11,82.17
+"Tanzania, United Republic Of",2015,langiro farm group,Arabica,Bourbon,Green,30,80.0,2400.0,7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,0.13,82.17
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.67,7.5,7.25,7.42,7.58,7.42,10.0,10.0,0.11,82.17
+Costa Rica,2015,"cafetalera internacional cafinter, s.a.",Arabica,Caturra,Blue-Green,275,69.0,18975.0,7.75,7.42,7.42,7.25,7.17,7.42,10.0,10.0,0.0,82.08
+"Tanzania, United Republic Of",2015,didas,Arabica,Other,Green,2,80.0,160.0,7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,0.13,82.0
+Laos,2015,minwook ku,Arabica,Other,Blue-Green,1,2.0,2.0,7.42,7.5,7.25,7.33,7.5,7.5,10.0,10.0,0.12,82.0
+Indonesia,2015,aulia arif syahri,Arabica,Other,Green,166,30.0,4980.0,7.75,7.83,7.58,7.75,7.92,7.83,10.0,10.0,0.11,81.83
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,130,69.0,8970.0,7.58,7.5,7.33,7.42,7.58,7.25,10.0,10.0,0.1,81.83
+Myanmar,2015,u mg mg,Arabica,Catuai,Green,1,2.0,2.0,7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,0.0,81.83
+Mexico,2015,viridiana,Arabica,Catuai,Green,250,2.0,500.0,7.58,7.5,7.33,7.5,7.17,7.33,10.0,10.0,0.11,81.83
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.5,7.5,7.33,7.5,7.42,7.25,10.0,10.0,0.12,81.83
+Costa Rica,2015,"cafetalera internacional cafinter, s.a.",Arabica,Caturra,Green,275,69.0,18975.0,7.67,7.5,7.5,7.25,7.08,7.42,10.0,10.0,0.09,81.83
+Costa Rica,2015,"ceca, s.a.",Arabica,Caturra,Green,250,69.0,17250.0,7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,0.12,81.58
+Myanmar,2015,genius coffee,Arabica,Catuai,Green,1,1.0,1.0,7.25,7.42,7.25,7.5,7.33,7.33,10.0,10.0,0.0,81.5
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,0.12,81.42
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.58,7.42,7.17,7.42,7.17,7.17,10.0,10.0,0.09,81.33
+Nicaragua,2015,"comercial internacional exportadora, s.a.",Arabica,Catuai,Green,275,69.0,18975.0,7.08,7.5,7.33,7.17,7.42,7.25,10.0,10.0,0.1,81.25
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.42,7.17,7.17,7.5,7.33,7.25,10.0,10.0,0.12,81.25
+Costa Rica,2015,"cafetalera internacional cafinter, s.a.",Arabica,Caturra,Bluish-Green,275,69.0,18975.0,7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,0.11,81.17
+Honduras,2015,,Arabica,Catuai,Green,275,1.0,275.0,7.42,7.33,7.0,7.42,7.33,7.33,10.0,10.0,0.13,81.17
+Nicaragua,2015,rolando lacayo,Arabica,Other,Unknown,275,69.0,18975.0,7.33,7.33,7.33,7.42,7.33,7.33,10.0,10.0,0.11,81.08
+Guatemala,2015,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,0.11,81.0
+Myanmar,2015,min hlaing,Arabica,Other,Unknown,2,2.0,4.0,7.17,7.42,7.0,7.58,7.33,7.0,10.0,10.0,0.0,80.92
+Myanmar,2015,u soe,Arabica,Catuai,Green,1,2.0,2.0,6.92,7.5,7.0,7.58,7.5,7.08,10.0,10.0,0.0,80.75
+Guatemala,2015,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.5,7.33,7.0,7.42,7.17,7.17,10.0,10.0,0.12,80.75
+Nicaragua,2015,"comercial internacional exportadora, s.a.",Arabica,Other,Green,275,69.0,18975.0,7.25,7.25,7.17,7.25,7.33,7.25,10.0,10.0,0.12,80.75
+Honduras,2015,bismarck castro,Arabica,Caturra,Green,275,1.0,275.0,7.5,7.33,7.0,7.42,7.25,7.17,10.0,10.0,0.11,80.75
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.42,7.17,7.08,7.42,7.25,7.25,10.0,10.0,0.09,80.75
+Honduras,2015,,Arabica,Catuai,Green,275,1.0,275.0,7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,0.13,80.75
+Indonesia,2015,aulia arif syahri,Arabica,Mandheling,Blue-Green,200,30.0,6000.0,7.58,7.42,7.0,7.67,7.5,7.5,9.33,10.0,0.13,80.67
+Costa Rica,2015,"ceca, s.a.",Arabica,Caturra,Blue-Green,240,1.0,240.0,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,0.11,80.67
+Myanmar,2015,shwe yin mar coffee,Arabica,Other,Green,1,2.0,2.0,7.17,7.33,7.17,7.42,7.25,7.08,10.0,10.0,0.0,80.5
+Myanmar,2015,bob mccauley,Arabica,Other,Green,2,2.0,4.0,8.0,7.08,7.0,7.33,7.08,6.92,10.0,10.0,0.11,80.25
+Nicaragua,2015,"exportadora atlantic, s.a.",Arabica,Caturra,Unknown,275,2.0,550.0,7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,0.11,80.17
+Honduras,2015,cadexsa,Arabica,Catuai,Green,275,1.0,275.0,7.25,7.25,7.0,7.17,7.08,7.08,10.0,10.0,0.11,80.17
+Myanmar,2015,ngu shwe li,Arabica,Other,Green,1,2.0,2.0,7.17,7.33,7.0,7.42,7.17,7.0,10.0,10.0,0.0,80.0
+Colombia,2015,federacion nacional de cafeteros,Arabica,,Green,275,2.0,550.0,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10.0,0.0,79.92
+Nicaragua,2015,cooperativa el gorrion r.l,Arabica,Caturra,Green,275,69.0,18975.0,6.92,6.92,7.0,7.42,7.25,7.0,10.0,10.0,0.12,79.5
+Guatemala,2015,juan luis alvarado romero,Arabica,Catuai,Green,275,69.0,18975.0,7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,0.11,79.17
+India,2015,andrew hetzel,Robusta,,Green,300,2.0,600.0,7.92,7.83,7.92,8.0,7.83,7.92,10.0,7.83,0.0,83.25
+India,2015,nishant gurjer,Robusta,Other,Green,320,60.0,19200.0,7.67,7.75,7.58,7.83,7.83,8.0,10.0,7.92,0.09,82.5
+India,2015,nishant gurjer,Robusta,Other,Green,320,60.0,19200.0,7.67,7.83,7.75,7.5,7.75,7.58,10.0,7.75,0.11,81.58
+India,2015,andrew hetzel,Robusta,,Green,300,1.0,300.0,7.75,7.75,7.67,7.67,7.58,7.58,10.0,7.58,0.0,81.42
+Honduras,2016,bismarck castro,Arabica,Caturra,Green,275,69.0,18975.0,8.17,8.08,8.08,8.0,8.08,8.0,10.0,10.0,0.1,86.67
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,80,69.0,5520.0,7.92,8.08,7.92,8.08,8.08,7.83,10.0,10.0,0.1,85.92
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,8.0,7.92,7.75,8.0,7.92,7.83,10.0,10.0,0.1,85.25
+Ethiopia,2016,seid damtew coffee planataion,Arabica,Other,Green,320,60.0,19200.0,7.75,8.0,7.58,8.0,8.0,7.92,10.0,10.0,0.11,85.08
+Uganda,2016,kyagalanyi coffee ltd,Arabica,SL14,Green,200,60.0,12000.0,8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,0.11,85.0
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,135,70.0,9450.0,8.0,7.92,7.75,7.92,7.75,7.83,10.0,10.0,0.0,85.0
+Costa Rica,2016,troy quimby,Arabica,Catuai,Green,36,46.0,1656.0,7.83,8.0,7.58,7.92,7.92,7.83,10.0,10.0,0.12,85.0
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Unknown,243,70.0,17010.0,7.92,7.92,7.67,7.83,7.92,7.83,10.0,10.0,0.0,84.92
+Indonesia,2016,sanjava coffee,Arabica,Java,Green,2,1.0,2.0,7.92,7.83,7.75,7.75,7.75,7.75,10.0,10.0,0.12,84.67
+Colombia,2016,racafe & cia s.c.a,Arabica,Other,Blue-Green,250,70.0,17500.0,7.83,7.67,7.58,7.92,7.67,7.83,10.0,10.0,0.0,84.58
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,125,70.0,8750.0,7.92,7.83,7.58,8.0,7.83,7.67,10.0,10.0,0.0,84.58
+Uganda,2016,ecom japan limited,Arabica,SL14,Green,200,60.0,12000.0,7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,0.11,84.5
+Honduras,2016,bismarck castro,Arabica,Caturra,Green,275,66.0,18150.0,7.92,8.0,7.75,7.67,7.67,7.75,10.0,10.0,0.1,84.33
+Honduras,2016,bismarck castro,Arabica,Catuai,Green,275,69.0,18975.0,7.58,7.92,7.58,7.75,7.92,7.75,10.0,10.0,0.11,84.33
+Colombia,2016,racafe & cia s.c.a,Arabica,,Unknown,275,70.0,19250.0,7.67,7.67,7.75,7.83,7.75,7.83,10.0,10.0,0.0,84.33
+Guatemala,2016,juan luis alvarado romero,Arabica,Caturra,Green,230,69.0,15870.0,7.75,7.75,7.58,7.92,7.75,7.75,10.0,10.0,0.11,84.25
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,250,70.0,17500.0,7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,0.0,84.17
+Costa Rica,2016,wayner jimenez,Arabica,Caturra,Bluish-Green,150,69.0,10350.0,7.92,7.75,7.67,7.67,7.5,7.67,10.0,10.0,0.09,84.17
+Guatemala,2016,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.75,7.75,7.58,8.0,7.67,7.83,10.0,10.0,0.11,84.17
+Guatemala,2016,juan luis alvarado romero,Arabica,Caturra,Green,377,69.0,26013.0,7.75,7.92,7.58,7.92,7.67,7.67,10.0,10.0,0.1,84.17
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,130,69.0,8970.0,7.58,7.83,7.58,7.83,7.83,7.67,10.0,10.0,0.1,84.17
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,8.0,7.75,7.5,7.58,7.92,7.67,10.0,10.0,0.1,84.08
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Green,320,60.0,19200.0,7.58,7.67,7.67,7.75,7.58,7.83,10.0,10.0,0.11,83.92
+Colombia,2016,carcafe ltda ci,Arabica,,Green,250,70.0,17500.0,7.75,7.67,7.5,7.75,7.83,7.75,10.0,10.0,0.11,83.92
+Colombia,2016,almacafe,Arabica,,Unknown,226,70.0,15820.0,7.75,7.58,7.5,7.83,7.75,7.92,10.0,10.0,0.0,83.92
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.83,7.67,7.5,7.75,7.75,7.75,10.0,10.0,0.0,83.83
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,100,69.0,6900.0,7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,0.11,83.83
+Colombia,2016,racafe & cia s.c.a,Arabica,,Green,275,70.0,19250.0,7.92,7.75,7.5,7.67,7.75,7.5,10.0,10.0,0.0,83.75
+Honduras,2016,bismarck castro,Arabica,Caturra,Green,285,69.0,19665.0,7.5,7.5,7.67,7.67,8.0,8.0,10.0,10.0,0.1,83.67
+Nicaragua,2016,"comercial internacional exportadora, s.a.",Arabica,Caturra,Green,275,69.0,18975.0,7.67,7.75,7.67,7.67,7.83,7.58,10.0,10.0,0.1,83.67
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Green,320,60.0,19200.0,7.58,7.75,7.58,7.75,7.58,7.58,10.0,10.0,0.11,83.67
+Guatemala,2016,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.75,7.75,7.5,7.83,7.58,7.58,10.0,10.0,0.11,83.58
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.75,7.75,7.58,7.58,7.67,7.58,10.0,10.0,0.11,83.58
+Colombia,2016,carcafe ltda ci,Arabica,Caturra,Bluish-Green,50,70.0,3500.0,7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,0.0,83.5
+Colombia,2016,carcafe ltda ci,Arabica,Caturra,Green,250,70.0,17500.0,7.75,7.58,7.58,7.5,7.75,7.75,10.0,10.0,0.0,83.5
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Bluish-Green,250,69.0,17250.0,7.67,7.75,7.5,7.83,7.58,7.58,10.0,10.0,0.1,83.5
+Colombia,2016,carcafe ltda ci,Arabica,Caturra,Green,600,29.0,17400.0,7.67,7.67,7.5,7.67,7.67,7.58,10.0,10.0,0.11,83.42
+Costa Rica,2016,"ceca, s.a.",Arabica,Caturra,Blue-Green,275,69.0,18975.0,7.58,7.5,7.42,7.92,7.5,7.67,10.0,10.0,0.09,83.42
+Colombia,2016,exportadora de cafe condor s.a,Arabica,Caturra,Unknown,275,70.0,19250.0,7.75,7.5,7.75,7.58,7.58,7.58,10.0,10.0,0.0,83.33
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Blue-Green,130,70.0,9100.0,7.67,7.58,7.58,7.42,7.67,7.75,10.0,10.0,0.0,83.33
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.83,7.58,7.58,7.58,7.5,7.58,10.0,10.0,0.0,83.33
+Costa Rica,2016,troy quimby,Arabica,Catuai,Green,29,46.0,1334.0,7.5,7.5,7.83,7.5,7.67,7.67,10.0,10.0,0.11,83.25
+Guatemala,2016,juan luis alvarado romero,Arabica,Pacas,Green,275,69.0,18975.0,7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,0.11,83.25
+Brazil,2016,bourbon specialty coffees,Arabica,,Green,300,60.0,18000.0,7.58,7.67,7.42,7.5,7.67,7.42,10.0,10.0,0.12,83.25
+"Tanzania, United Republic Of",2016,taylor winch (t) ltd,Arabica,Bourbon,Green,320,60.0,19200.0,7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,0.12,83.17
+Guatemala,2016,juan luis alvarado romero,Arabica,Caturra,Green,250,1500.0,375000.0,7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,0.11,83.17
+Honduras,2016,cadexsa,Arabica,Catuai,Blue-Green,275,69.0,18975.0,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,0.11,83.17
+Colombia,2016,carcafe ltda ci,Arabica,Caturra,Green,275,70.0,19250.0,7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,0.0,83.08
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,275,70.0,19250.0,7.75,7.5,7.5,7.42,8.0,7.75,10.0,10.0,0.0,83.08
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Green,320,60.0,19200.0,7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,0.11,83.0
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Bluish-Green,320,60.0,19200.0,7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,0.11,83.0
+Colombia,2016,carcafe ltda ci,Arabica,,Green,25,70.0,1750.0,7.67,7.67,7.33,7.67,7.5,7.58,10.0,10.0,0.11,83.0
+Costa Rica,2016,"ceca, s.a.",Arabica,Caturra,Bluish-Green,250,69.0,17250.0,7.58,7.5,7.42,7.67,7.42,7.5,10.0,10.0,0.09,82.75
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Bluish-Green,320,60.0,19200.0,7.5,7.58,7.5,7.67,7.5,7.42,10.0,10.0,0.11,82.67
+Brazil,2016,gabriel barbara,Arabica,,Green,198,59.0,11682.0,7.5,7.58,7.42,7.5,7.75,7.33,10.0,10.0,0.11,82.58
+Brazil,2016,bourbon specialty coffees,Arabica,,Green,300,60.0,18000.0,7.42,7.42,7.5,7.33,7.25,7.67,10.0,10.0,0.0,82.58
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.5,7.33,7.5,7.67,7.5,10.0,10.0,0.1,82.5
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.67,7.58,7.25,7.67,7.42,7.33,10.0,10.0,0.12,82.42
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,43,70.0,3010.0,5.08,7.75,7.83,7.75,7.83,8.08,10.0,10.0,0.11,82.42
+Brazil,2016,bourbon specialty coffees,Arabica,,Green,300,60.0,18000.0,7.42,7.5,7.33,7.5,7.25,7.42,10.0,10.0,0.11,82.42
+Brazil,2016,pedro santos e silva,Arabica,Catuai,Green,320,2.0,640.0,7.33,7.5,7.5,7.33,7.5,7.5,10.0,10.0,0.11,82.33
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Bluish-Green,320,60.0,19200.0,7.5,7.5,7.42,7.5,7.42,7.5,10.0,10.0,0.11,82.33
+Guatemala,2016,juan luis alvarado romero,Arabica,Pacas,Green,275,69.0,18975.0,7.67,7.5,7.25,7.67,7.42,7.42,10.0,10.0,0.11,82.25
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Green,320,60.0,19200.0,7.42,7.42,7.5,7.42,7.42,7.5,10.0,10.0,0.11,82.17
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Green,320,60.0,19200.0,7.42,7.58,7.42,7.5,7.42,7.25,10.0,10.0,0.11,82.08
+Brazil,2016,ipanema coffees,Arabica,Bourbon,Green,230,60.0,13800.0,7.5,7.33,7.42,7.5,7.33,7.42,10.0,10.0,0.11,82.0
+Costa Rica,2016,troy quimby,Arabica,Catuai,Green,15,46.0,690.0,7.25,7.33,7.5,7.33,7.67,7.42,10.0,10.0,0.0,81.83
+Brazil,2016,gabriel barbara,Arabica,Mundo Novo,Green,200,59.0,11800.0,7.42,7.5,7.42,7.5,7.42,7.25,10.0,10.0,0.11,81.83
+Honduras,2016,cadexsa,Arabica,Catuai,Blue-Green,275,69.0,18975.0,7.58,7.5,7.33,7.33,7.42,7.25,10.0,10.0,0.11,81.67
+"Tanzania, United Republic Of",2016,taylor winch (coffee) ltd.,Arabica,,Green,320,60.0,19200.0,7.17,7.33,7.33,7.42,7.5,7.33,10.0,10.0,0.0,81.67
+Colombia,2016,racafe & cia s.c.a,Arabica,,Unknown,165,70.0,11550.0,7.75,7.75,7.75,7.67,5.25,7.83,10.0,10.0,0.0,81.67
+Guatemala,2016,juan luis alvarado romero,Arabica,Catuai,Green,450,69.0,31050.0,7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,0.1,81.42
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Unknown,230,70.0,16100.0,7.5,7.33,7.33,7.17,7.33,7.42,10.0,10.0,0.0,81.33
+Mexico,2016,angel oscar medina rodriguez,Arabica,,Green,220,69.0,15180.0,7.67,7.42,7.0,7.42,7.58,7.08,10.0,10.0,0.12,81.33
+Nicaragua,2016,"exportadora atlantic, s.a.",Arabica,,Green,275,69.0,18975.0,7.33,7.5,7.17,7.17,7.58,7.17,10.0,10.0,0.09,81.17
+Ethiopia,2016,kerchanshe,Arabica,,Unknown,300,60.0,18000.0,7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,0.11,81.08
+Brazil,2016,gregorio sebba,Arabica,Mundo Novo,Green,500,60.0,30000.0,7.58,7.42,7.5,7.25,7.75,7.58,9.33,9.33,0.11,81.08
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,120,69.0,8280.0,7.42,7.25,7.17,7.5,7.25,7.17,10.0,10.0,0.09,81.0
+Colombia,2016,racafe & cia s.c.a,Arabica,Caturra,Green,43,70.0,3010.0,7.67,7.5,7.42,5.25,7.67,7.75,10.0,10.0,0.0,81.0
+Brazil,2016,bourbon specialty coffees,Arabica,,Green,94,60.0,5640.0,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10.0,0.11,80.58
+Nicaragua,2016,"exportadora atlantic, s.a.",Arabica,,Green,275,69.0,18975.0,7.08,7.5,7.0,7.25,7.42,7.0,10.0,10.0,0.11,80.58
+Honduras,2016,cadexsa,Arabica,,Green,275,69.0,18975.0,7.25,7.42,7.0,7.42,7.33,7.0,10.0,10.0,0.1,80.42
+Burundi,2016,simon mahinda,Arabica,,Green,300,60.0,18000.0,7.08,7.25,7.17,7.33,7.08,7.08,10.0,10.0,0.12,80.33
+Honduras,2016,bismarck castro,Arabica,Caturra,Green,275,69.0,18975.0,7.25,7.25,7.0,7.0,7.42,7.0,10.0,10.0,0.1,80.25
+Mexico,2016,cafe de don balbino s.c. de r.l. de c.v.,Arabica,Caturra,Green,60,69.0,4140.0,7.25,7.17,7.0,7.33,7.33,7.0,10.0,10.0,0.1,80.25
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,0.1,79.75
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,0.1,79.67
+Cote d?Ivoire,2016,rre kunene,Arabica,,Bluish-Green,2,1.0,2.0,7.42,7.25,6.83,7.0,7.33,7.08,9.33,10.0,0.13,79.33
+Guatemala,2016,juan luis alvarado romero,Arabica,Bourbon,Green,250,69.0,17250.0,7.08,7.0,6.92,7.42,7.0,6.92,10.0,10.0,0.11,79.17
+Nicaragua,2016,"exportadora atlantic, s.a.",Arabica,Caturra,Green,1,1.0,1.0,7.17,7.0,6.92,7.0,7.0,7.0,10.0,10.0,0.1,78.83
+Nicaragua,2016,"exportadora atlantic, s.a.",Arabica,,Green,275,69.0,18975.0,7.08,7.0,6.75,6.83,7.08,6.92,10.0,10.0,0.1,78.58
+Indonesia,2016,sanjava coffee,Arabica,Java,Unknown,2,1.0,2.0,6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,0.13,78.17
+India,2016,joshua marsceau,Arabica,,Green,20,50.0,1000.0,7.67,7.33,7.17,6.67,7.17,7.42,9.33,6.67,0.0,76.83
+Brazil,2016,bourbon specialty coffees,Arabica,,Green,300,60.0,18000.0,7.25,6.58,6.58,7.0,7.0,6.42,8.0,10.0,0.11,73.5
+Nicaragua,2016,"exportadora atlantic, s.a.",Arabica,Caturra,Green,550,69.0,37950.0,7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,0.13,63.08
+Ecuador,2016,luis robles,Robusta,,Blue-Green,1,2.0,2.0,7.75,7.58,7.33,7.58,5.08,7.83,10.0,7.75,0.0,78.75
+Ecuador,2016,luis robles,Robusta,,Blue-Green,1,2.0,2.0,7.5,7.67,7.75,7.75,5.17,5.25,10.0,8.42,0.0,78.08
+Panama,2017,gonzalo hernandez,Arabica,Gesha,Bluish-Green,37,60.0,2220.0,8.0,8.0,7.92,8.08,7.83,8.0,10.0,10.0,0.08,85.83
+Ethiopia,2017,seid damtew coffee planataion,Arabica,Caturra,,320,60.0,19200.0,7.83,8.0,7.83,8.17,7.92,8.0,10.0,10.0,0.09,85.75
+Indonesia,2017,aulia arif syahri,Arabica,Mandheling,Blue-Green,200,30.0,6000.0,7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,0.0,84.42
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.75,7.83,7.58,7.83,7.67,7.75,10.0,10.0,0.13,84.17
+Indonesia,2017,pt.royal pacific indah international,Arabica,Mandheling,Bluish-Green,2,2.0,4.0,7.81,7.88,7.56,7.75,7.63,7.75,10.0,10.0,0.12,84.13
+Costa Rica,2017,amanda powers,Arabica,,,275,68.0388,18710.67,7.58,7.75,7.67,7.75,7.83,7.75,10.0,10.0,0.08,84.0
+Ethiopia,2017,kyagalanyi coffee ltd,Arabica,Gesha,Green,320,60.0,19200.0,7.83,7.75,7.67,7.75,7.33,7.75,10.0,10.0,0.11,84.0
+Honduras,2017,bismarck castro,Arabica,Caturra,Green,275,66.0,18150.0,7.42,7.83,7.75,7.92,7.75,7.58,10.0,10.0,0.1,84.0
+Mexico,2017,cafes tomari sa de cv,Arabica,Mundo Novo,Green,200,69.0,13800.0,7.83,7.83,7.58,7.92,7.42,7.5,10.0,10.0,0.11,83.92
+Colombia,2017,carcafe ltda ci,Arabica,Caturra,Green,275,70.0,19250.0,7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,0.11,83.75
+Kenya,2017,kennedy macharia,Arabica,SL28,Bluish-Green,200,60.0,12000.0,8.08,7.67,7.67,7.58,7.25,7.67,10.0,10.0,0.11,83.67
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.67,7.75,7.5,7.58,7.58,7.67,10.0,10.0,0.1,83.42
+Mexico,2017,cafe de don balbino s.c. de r.l. de c.v.,Arabica,Typica,Blue-Green,50,50.0,2500.0,7.67,7.83,7.42,7.83,7.33,7.5,10.0,10.0,0.11,83.25
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,275,69.0,18975.0,7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,0.1,83.17
+Peru,2017,andrea bernal,Arabica,,Green,200,69.0,13800.0,7.92,7.5,7.5,7.58,7.67,7.5,10.0,10.0,0.11,83.17
+Vietnam,2017,"sunvirtue co., ltd.",Arabica,Catimor,,1,2.0,2.0,7.58,7.42,7.08,7.33,7.58,8.58,10.0,10.0,0.07,83.17
+Colombia,2017,racafe & cia s.c.a,Arabica,Caturra,Green,129,70.0,9030.0,7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,0.11,82.92
+Kenya,2017,jungle estate,Arabica,SL28,Green,27,50.0,1350.0,7.75,7.58,7.42,7.58,7.5,7.5,10.0,10.0,0.1,82.83
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.58,7.33,7.67,7.58,7.58,10.0,10.0,0.11,82.83
+Guatemala,2017,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,0.11,82.75
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.67,7.17,7.67,7.67,7.58,10.0,10.0,0.11,82.75
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.5,7.42,7.58,7.67,7.5,10.0,10.0,0.1,82.75
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,0.1,82.75
+Indonesia,2017,sanjava coffee,Arabica,Sulawesi,Blue-Green,2,1.0,2.0,7.5,7.58,7.42,7.58,7.58,7.5,10.0,10.0,0.12,82.75
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.58,7.58,7.33,7.58,7.33,7.67,10.0,10.0,0.12,82.75
+Honduras,2017,bismarck castro,Arabica,Caturra,Green,275,69.0,18975.0,7.58,7.5,7.42,7.58,7.5,7.5,10.0,10.0,0.09,82.75
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.5,7.42,7.42,7.75,7.5,7.5,10.0,10.0,0.1,82.58
+Indonesia,2017,sanjava coffee,Arabica,Other,Green,2,1.0,2.0,7.83,7.75,7.25,7.5,7.42,7.33,10.0,10.0,0.11,82.5
+Honduras,2017,elsy reyes,Arabica,Caturra,Green,275,69.0,18975.0,7.58,7.58,7.33,7.5,7.5,7.5,10.0,10.0,0.1,82.5
+Honduras,2017,brian beck,Arabica,Other,Green,1,2.0,2.0,7.42,7.67,7.17,7.58,7.58,7.5,10.0,10.0,0.12,82.42
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,0.1,82.42
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,20,69.0,1380.0,7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,0.12,82.42
+Honduras,2017,bismarck castro,Arabica,Caturra,Green,275,69.0,18975.0,7.5,7.58,7.33,7.5,7.42,7.42,10.0,10.0,0.1,82.33
+Indonesia,2017,sanjava coffee,Arabica,Bourbon,Unknown,2,1.0,2.0,7.5,7.5,7.42,7.42,7.5,7.42,10.0,10.0,0.15,82.08
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10.0,0.1,81.92
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,0.11,81.92
+Honduras,2017,bismarck castro,Arabica,Caturra,Green,274,67.0,18358.0,7.58,7.5,7.25,7.33,7.42,7.5,10.0,10.0,0.12,81.92
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.42,7.5,7.25,7.5,7.33,7.42,10.0,10.0,0.1,81.83
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.5,7.25,7.42,7.42,7.33,10.0,10.0,0.11,81.75
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.42,7.42,7.08,7.42,7.33,7.42,10.0,10.0,0.1,81.67
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,80,69.0,5520.0,7.42,7.33,7.17,7.67,7.33,7.42,10.0,10.0,0.12,81.67
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,0.12,81.58
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10.0,0.1,81.5
+Nicaragua,2017,"exportadora atlantic, s.a.",Arabica,Caturra,Green,550,69.0,37950.0,7.5,7.42,7.33,7.33,7.25,7.33,10.0,10.0,0.11,81.5
+Honduras,2017,elsy reyes,Arabica,Caturra,Green,275,69.0,18975.0,7.5,7.5,7.33,7.42,7.17,7.25,10.0,10.0,0.1,81.5
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.5,7.42,7.25,7.25,7.5,7.25,10.0,10.0,0.12,81.5
+Mexico,2017,cafes tomari sa de cv,Arabica,Mundo Novo,Green,200,69.0,13800.0,7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,0.12,81.42
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,25,69.0,1725.0,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,0.1,80.92
+Kenya,2017,lydiah mwangi,Arabica,SL28,Green,150,60.0,9000.0,7.17,7.58,7.5,7.5,8.0,7.75,10.0,10.0,0.11,80.92
+Mexico,2017,grupo santab s.a de c.v.,Arabica,Bourbon,Green,240,69.0,16560.0,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10.0,0.11,80.92
+Guatemala,2017,juan luis alvarado romero,Arabica,Caturra,Green,275,69.0,18975.0,7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,0.1,80.5
+Honduras,2017,janny marlith torres,Arabica,Catuai,Green,15,69.0,1035.0,7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,0.11,80.5
+Vietnam,2017,"sunvirtue co., ltd.",Arabica,Catimor,Unknown,1,2.0,2.0,7.42,7.25,7.25,7.58,7.42,7.33,8.67,10.0,0.0,80.17
+Nicaragua,2017,"comercial internacional exportadora, s.a.",Arabica,Caturra,Green,275,69.0,18975.0,7.33,7.08,6.92,7.08,7.42,7.17,10.0,10.0,0.1,80.0
+Kenya,2017,kennedy macharia,Arabica,SL34,Unknown,200,60.0,12000.0,7.0,7.08,7.0,7.17,7.25,7.25,10.0,10.0,0.11,79.83
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10.0,0.1,79.83
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,0.1,79.17
+Honduras,2017,janny marlith torres,Arabica,Catuai,Green,15,69.0,1035.0,7.58,7.0,6.75,6.92,7.0,6.92,10.0,10.0,0.11,79.17
+Guatemala,2017,juan luis alvarado romero,Arabica,Bourbon,Green,50,69.0,3450.0,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,0.1,79.08
+Honduras,2017,bismarck castro,Arabica,Caturra,Green,275,69.0,18975.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0
+India,2017,nishant gurjer,Robusta,,Unknown,320,60.0,19200.0,8.0,7.75,7.92,8.0,7.92,7.92,10.0,8.0,0.0,83.5
+India,2017,nishant gurjer,Robusta,,Bluish-Green,320,60.0,19200.0,7.67,7.75,7.83,7.67,7.92,7.83,10.0,7.92,0.1,82.5
+Honduras,2018,mdh,Arabica,Catimor,Blue-Green,275,69.0,18975.0,7.5,7.42,7.08,7.42,7.5,7.33,10.0,10.0,0.11,81.58
